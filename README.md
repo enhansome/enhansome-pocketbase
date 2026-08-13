@@ -31,11 +31,11 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Official Packages
 
-* [Golang Server](https://github.com/pocketbase/pocketbase/releases/) ⭐ 60,638 | 🐛 19 | 🌐 Go | 📅 2026-08-12 - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
+* [Golang Server](https://github.com/pocketbase/pocketbase/releases/) ⭐ 60,643 | 🐛 19 | 🌐 Go | 📅 2026-08-12 - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
 
-* [JavaScript SDK](https://github.com/pocketbase/js-sdk) ⭐ 2,928 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-31 - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
+* [JavaScript SDK](https://github.com/pocketbase/js-sdk) ⭐ 2,928 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-13 - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
 
-* [Dart SDK](https://github.com/pocketbase/dart-sdk) ⭐ 717 | 🐛 1 | 🌐 Dart | 📅 2026-07-10 - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
+* [Dart SDK](https://github.com/pocketbase/dart-sdk) ⭐ 716 | 🐛 1 | 🌐 Dart | 📅 2026-07-10 - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
 
 ## Top PocketBase-specific Projects (>100 stars)
 
@@ -126,8 +126,8 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Self Hosting
 
-* [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⭐ 60,638 | 🐛 19 | 🌐 Go | 📅 2026-08-12 - Guide to deploy in a Droplet.
-* [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⭐ 60,638 | 🐛 19 | 🌐 Go | 📅 2026-08-12 - Guide to deploy for free in Fly.io.
+* [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⭐ 60,643 | 🐛 19 | 🌐 Go | 📅 2026-08-12 - Guide to deploy in a Droplet.
+* [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⭐ 60,643 | 🐛 19 | 🌐 Go | 📅 2026-08-12 - Guide to deploy for free in Fly.io.
 * [pb-deployer](https://github.com/magooney-loon/pb-deployer) ⭐ 50 | 🐛 0 | 🌐 Svelte | 📅 2026-06-20 - Automates the lifecycle of deploying PocketBase apps to production ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-deployer)
 * [PBLauncher](https://github.com/user0608/pb_launcher) ⭐ 32 | 🐛 3 | 🌐 Go | 📅 2026-05-24 - Manage PocketBase instances — fast, lightweight, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/user0608/pb_launcher)
 * [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) ⭐ 25 | 🐛 1 | 🌐 Dockerfile | 📅 2025-06-05 - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)

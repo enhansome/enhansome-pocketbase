@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T10:03:19Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60638
+            "stars": 60643
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-31T19:50:31Z",
+            "last_commit": "2026-08-13T09:35:08Z",
             "owner": "pocketbase",
             "repo": "js-sdk",
             "stars": 2928
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-10T16:16:26Z",
             "owner": "pocketbase",
             "repo": "dart-sdk",
-            "stars": 717
+            "stars": 716
           }
         }
       ],
@@ -676,7 +676,7 @@
             "last_commit": "2026-08-12T10:03:19Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60638
+            "stars": 60643
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-12T10:03:19Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60638
+            "stars": 60643
           }
         },
         {
@@ -1195,7 +1195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:29:29.838Z",
+    "last_updated": "2026-08-13T10:17:41.019Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
