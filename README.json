@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-14T04:24:50Z",
+            "last_commit": "2026-08-19T07:04:47Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60712
+            "stars": 60730
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510463319,
             "language": "TypeScript",
             "last_commit": "2026-08-13T10:35:25Z",
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2927
+            "stars": 2926
           }
         },
         {
@@ -38,18 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519728947,
             "language": "Dart",
             "last_commit": "2026-08-13T11:13:18Z",
             "owner": "pocketbase",
             "repo": "dart-sdk",
-            "stars": 716
+            "stars": 717
           }
         }
       ],
       "title": "Official Packages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 551224363,
             "language": "TypeScript",
             "last_commit": "2026-08-04T10:51:03Z",
             "owner": "patmood",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512404791,
             "language": "Shell",
             "last_commit": "2026-08-03T09:38:07Z",
             "owner": "muchobien",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537165977,
             "language": "Svelte",
             "last_commit": "2026-05-21T15:48:50Z",
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 510
+            "stars": 508
           }
         },
         {
@@ -100,8 +106,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582984879,
             "language": "Svelte",
-            "last_commit": "2026-08-18T01:58:07Z",
+            "last_commit": "2026-08-19T04:36:12Z",
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
             "stars": 233
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696675806,
             "language": "Go",
             "last_commit": "2026-03-23T03:18:49Z",
             "owner": "mrwyndham",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536890157,
             "language": "TypeScript",
             "last_commit": "2022-12-06T02:04:25Z",
             "owner": "danawoodman",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 883562028,
             "language": "JavaScript",
             "last_commit": "2024-12-05T06:40:20Z",
             "owner": "mrwyndham",
@@ -153,7 +163,7 @@
       "title": "Top PocketBase-specific Projects (>100 stars)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850021419,
             "language": "CSS",
             "last_commit": "2026-08-13T18:09:22Z",
             "owner": "benallfree",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896970430,
             "language": "JavaScript",
             "last_commit": "2024-12-03T10:25:22Z",
             "owner": "benallfree",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 852067973,
             "language": "JavaScript",
             "last_commit": "2024-09-13T22:09:52Z",
             "owner": "benallfree",
@@ -201,7 +214,7 @@
       "title": "JSVM Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972868650,
             "language": "Go",
             "last_commit": "2026-07-27T20:07:07Z",
             "owner": "magooney-loon",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589679365,
             "language": "Go",
             "last_commit": "2026-08-14T06:55:35Z",
             "owner": "iamelevich",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 923070400,
             "language": "Go",
             "last_commit": "2025-10-25T15:32:16Z",
             "owner": "Snonky",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 908337603,
             "language": "Go",
             "last_commit": "2025-08-17T11:17:40Z",
             "owner": "Vogeslu",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616204629,
             "language": "Go",
             "last_commit": "2026-08-14T06:55:33Z",
             "owner": "iamelevich",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616170542,
             "language": "Go",
             "last_commit": "2026-08-14T06:50:32Z",
             "owner": "iamelevich",
@@ -291,7 +310,7 @@
       "title": "Go Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544583317,
             "language": "TypeScript",
             "last_commit": "2025-02-24T11:41:15Z",
             "owner": "tobicrain",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 732070605,
             "language": "TypeScript",
             "last_commit": "2023-12-16T02:30:50Z",
             "owner": "tsensei",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1102541136,
             "language": "HTML",
             "last_commit": "2026-08-10T23:06:11Z",
             "owner": "nathanstitt",
@@ -342,8 +364,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904944407,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T05:00:58Z",
+            "last_commit": "2026-08-19T02:57:34Z",
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 24
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894095544,
             "language": "TypeScript",
             "last_commit": "2025-01-30T07:34:50Z",
             "owner": "g12i",
@@ -367,7 +391,7 @@
       "title": "React"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -376,11 +400,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537165977,
             "language": "Svelte",
             "last_commit": "2026-05-21T15:48:50Z",
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 510
+            "stars": 508
           }
         },
         {
@@ -390,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727885765,
             "language": "TypeScript",
             "last_commit": "2025-11-26T08:23:39Z",
             "owner": "Egor-S",
@@ -404,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 593112022,
             "language": "TypeScript",
             "last_commit": "2024-03-14T00:43:07Z",
             "owner": "goknsh",
@@ -415,7 +442,7 @@
       "title": "Svelte"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -424,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 584214979,
             "language": "Vue",
             "last_commit": "2023-07-12T18:47:36Z",
             "owner": "j-wil",
@@ -438,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 520574959,
             "language": "Vue",
             "last_commit": "2022-11-30T20:03:17Z",
             "owner": "StefanVDWeide",
@@ -452,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563086147,
             "language": "Vue",
             "last_commit": "2023-04-01T19:32:08Z",
             "owner": "aaronblondeau",
@@ -463,7 +493,7 @@
       "title": "Vue"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -472,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 544758345,
             "language": "Dart",
             "last_commit": "2024-11-19T15:38:42Z",
             "owner": "rodydavis",
@@ -486,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692318350,
             "language": "Kotlin",
             "last_commit": "2025-02-14T03:06:31Z",
             "owner": "rohitsangwan01",
@@ -500,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540827648,
             "language": "Dart",
             "last_commit": "2023-10-31T17:12:12Z",
             "owner": "rodydavis",
@@ -511,7 +544,7 @@
       "title": "Dart/Flutter"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -520,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570123610,
             "language": "C#",
             "last_commit": "2024-06-16T10:35:17Z",
             "owner": "iluvadev",
@@ -534,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013397942,
             "language": "C#",
             "last_commit": "2026-01-24T15:38:17Z",
             "owner": "PSCourtney",
@@ -545,7 +580,7 @@
       "title": "C#"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -554,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 538553958,
             "language": "Python",
             "last_commit": "2026-05-20T16:23:14Z",
             "owner": "vaphes",
@@ -568,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727821905,
             "language": "Go",
             "last_commit": "2025-01-22T07:43:29Z",
             "owner": "pluja",
@@ -582,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749749466,
             "language": "Python",
             "last_commit": "2025-07-23T19:09:41Z",
             "owner": "thijsmie",
@@ -596,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545956977,
             "language": "Rust",
             "last_commit": "2026-07-26T19:15:45Z",
             "owner": "sreedevk",
@@ -610,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672076191,
             "language": "Kotlin",
             "last_commit": "2026-04-09T19:29:40Z",
             "owner": "agrevster",
@@ -624,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 546895255,
             "language": "C#",
             "last_commit": "2023-11-13T21:17:53Z",
             "owner": "PRCV1",
@@ -638,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 887143532,
             "language": "C#",
             "last_commit": "2026-03-30T16:28:58Z",
             "owner": "Sov3rain",
@@ -652,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 831182552,
             "language": "Kotlin",
             "last_commit": "2026-02-12T20:52:51Z",
             "owner": "IdanAizikNissim",
@@ -663,7 +706,7 @@
       "title": "Unofficial PocketBase Clients (SDKs)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -672,11 +715,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-14T04:24:50Z",
+            "last_commit": "2026-08-19T07:04:47Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60712
+            "stars": 60730
           }
         },
         {
@@ -686,11 +730,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-14T04:24:50Z",
+            "last_commit": "2026-08-19T07:04:47Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60712
+            "stars": 60730
           }
         },
         {
@@ -700,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1034451670,
             "language": "Svelte",
             "last_commit": "2026-06-20T22:11:33Z",
             "owner": "magooney-loon",
@@ -714,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 984889570,
             "language": "Go",
             "last_commit": "2026-05-24T12:22:36Z",
             "owner": "user0608",
@@ -728,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531980988,
             "language": "Dockerfile",
             "last_commit": "2025-06-05T22:56:00Z",
             "owner": "blockshiftnetwork",
@@ -742,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 716466609,
             "language": "Dockerfile",
             "last_commit": "2026-07-03T05:25:59Z",
             "owner": "kdpuvvadi",
@@ -756,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1097785973,
             "language": "Shell",
             "last_commit": "2026-07-29T02:26:14Z",
             "owner": "boustanihani",
@@ -770,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099113709,
             "language": "Dockerfile",
             "last_commit": "2025-11-23T01:01:54Z",
             "owner": "metruzanca",
@@ -781,7 +832,7 @@
       "title": "Self Hosting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -790,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 655737061,
             "language": "TypeScript",
             "last_commit": "2024-07-04T20:07:38Z",
             "owner": "david-plugge",
@@ -804,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 925177376,
             "language": "TypeScript",
             "last_commit": "2025-05-25T21:32:19Z",
             "owner": "emresandikci",
@@ -818,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 889183190,
             "language": "TypeScript",
             "last_commit": "2025-12-29T17:03:16Z",
             "owner": "satohshi",
@@ -832,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935744065,
             "language": "TypeScript",
             "last_commit": "2026-08-14T18:33:35Z",
             "owner": "sergio9929",
@@ -846,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 883248393,
             "language": "TypeScript",
             "last_commit": "2026-06-04T12:34:17Z",
             "owner": "satohshi",
@@ -860,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 694285566,
             "language": "TypeScript",
             "last_commit": "2023-09-21T11:31:56Z",
             "owner": "benallfree",
@@ -874,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856733259,
             "language": null,
             "last_commit": "2025-02-08T19:37:51Z",
             "owner": "benallfree",
@@ -888,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1225546768,
             "language": "TypeScript",
             "last_commit": "2026-07-17T15:33:31Z",
             "owner": "Karnak19",
@@ -899,7 +958,7 @@
       "title": "TypeScript tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -908,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529504107,
             "language": "Go",
             "last_commit": "2026-08-11T17:03:15Z",
             "owner": "maxpert",
@@ -922,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541050486,
             "language": "Dockerfile",
             "last_commit": "2022-09-25T06:05:47Z",
             "owner": "TylerSustare",
@@ -936,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512225145,
             "language": "Dockerfile",
             "last_commit": "2023-09-21T20:24:02Z",
             "owner": "bscott",
@@ -950,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740645520,
             "language": "JavaScript",
             "last_commit": "2024-01-09T18:34:05Z",
             "owner": "burggraf",
@@ -961,7 +1024,7 @@
       "title": "SQLite tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -970,6 +1033,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777663617,
             "language": "TypeScript",
             "last_commit": "2024-03-31T17:16:05Z",
             "owner": "joseferben",
@@ -984,6 +1048,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 646128656,
             "language": "Go",
             "last_commit": "2025-01-26T03:15:04Z",
             "owner": "rohitsangwan01",
@@ -998,6 +1063,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708430420,
             "language": "TypeScript",
             "last_commit": "2025-01-13T14:46:13Z",
             "owner": "nedpals",
@@ -1012,6 +1078,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1076693231,
             "language": "Go",
             "last_commit": "2025-10-15T11:27:58Z",
             "owner": "magooney-loon",
@@ -1026,24 +1093,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1233758764,
             "language": "JavaScript",
             "last_commit": "2026-06-21T12:49:34Z",
             "owner": "Perufitlife",
             "repo": "pocketbase-security-skill",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "PocketBase Templates",
-          "description": "A open-source collection of PocketBase schemas to quickly get started.",
-          "children": []
         }
       ],
       "title": "Other tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1052,6 +1114,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11976864,
             "language": "JavaScript",
             "last_commit": "2023-08-13T10:50:44Z",
             "owner": "patmood",
@@ -1066,6 +1129,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 645766278,
             "language": "Dart",
             "last_commit": "2023-05-26T12:19:25Z",
             "owner": "rohitsangwan01",
@@ -1080,6 +1144,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 549054742,
             "language": "TypeScript",
             "last_commit": "2025-05-05T02:24:18Z",
             "owner": "rajesh6161",
@@ -1094,6 +1159,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742764011,
             "language": "Go",
             "last_commit": "2026-05-31T14:14:49Z",
             "owner": "tametsi",
@@ -1108,6 +1174,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092128275,
             "language": "TypeScript",
             "last_commit": "2026-04-20T02:05:07Z",
             "owner": "PocketTogether",
@@ -1122,6 +1189,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 547969060,
             "language": "JavaScript",
             "last_commit": "2024-10-16T04:39:22Z",
             "owner": "rajesh6161",
@@ -1136,6 +1204,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1007199478,
             "language": "HTML",
             "last_commit": "2025-07-25T14:44:47Z",
             "owner": "cobeo2004",
@@ -1150,6 +1219,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 555661954,
             "language": "JavaScript",
             "last_commit": "2022-10-22T03:36:01Z",
             "owner": "rajesh6161",
@@ -1164,6 +1234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766522230,
             "language": "TypeScript",
             "last_commit": "2026-03-27T11:55:39Z",
             "owner": "JunoNgx",
@@ -1178,6 +1249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 843387896,
             "language": "JavaScript",
             "last_commit": "2025-07-12T18:11:33Z",
             "owner": "davidbarton",
@@ -1187,15 +1259,10 @@
         }
       ],
       "title": "Showcases"
-    },
-    {
-      "description": "Ports of NPM/Node.js packages to the PocketBase JSVM.",
-      "items": [],
-      "title": "PocketPorts Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:41:19.561Z",
+    "last_updated": "2026-08-19T09:41:48.316Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
