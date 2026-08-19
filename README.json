@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T07:04:47Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60730
+            "stars": 60731
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-19T07:04:47Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60730
+            "stars": 60731
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-08-19T07:04:47Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60730
+            "stars": 60731
           }
         },
         {
@@ -1262,8 +1262,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:41:48.316Z",
+    "last_updated": "2026-08-19T12:47:26.101Z",
     "original_repository": "benallfree/awesome-pocketbase",
+    "original_repository_id": 544865531,
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
     "enhanced_repository_description": null,
