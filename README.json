@@ -12,10 +12,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-19T18:43:11Z",
+            "last_commit": "2026-08-22T09:10:56Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60753
+            "stars": 60768
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 904944407,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T22:37:02Z",
+            "last_commit": "2026-08-21T13:43:57Z",
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 24
@@ -717,10 +717,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-19T18:43:11Z",
+            "last_commit": "2026-08-22T09:10:56Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60753
+            "stars": 60768
           }
         },
         {
@@ -732,10 +732,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-19T18:43:11Z",
+            "last_commit": "2026-08-22T09:10:56Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60753
+            "stars": 60768
           }
         },
         {
@@ -1262,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:46:02.117Z",
+    "last_updated": "2026-08-22T09:35:14.701Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_id": 544865531,
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
