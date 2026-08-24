@@ -12,10 +12,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-23T04:44:51Z",
+            "last_commit": "2026-08-24T14:07:59Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60786
+            "stars": 60789
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T15:05:07Z",
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2928
+            "stars": 2929
           }
         },
         {
@@ -584,6 +584,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "libpb",
+          "description": "PocketBase client wrapper for D with automatic serialization and deserialization to and from JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583335207,
+            "language": "D",
+            "last_commit": "2023-06-18T11:35:02Z",
+            "owner": "Hax-io",
+            "repo": "libpb",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "D"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gobot",
+          "description": "PocketBase as an npm package. CLI and API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766558137,
+            "language": "TypeScript",
+            "last_commit": "2024-07-30T08:04:15Z",
+            "owner": "benallfree",
+            "repo": "gobot",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Python (Sync)",
           "description": "PocketBase Client in Python.",
           "children": [],
@@ -717,10 +759,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-23T04:44:51Z",
+            "last_commit": "2026-08-24T14:07:59Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60786
+            "stars": 60789
           }
         },
         {
@@ -732,10 +774,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-23T04:44:51Z",
+            "last_commit": "2026-08-24T14:07:59Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60786
+            "stars": 60789
           }
         },
         {
@@ -1259,10 +1301,76 @@
         }
       ],
       "title": "Showcases"
+    },
+    {
+      "description": "Ports of NPM/Node.js packages to the PocketBase JSVM.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": "pocketbase-node Node.js core packages (, , etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856774422,
+            "language": "TypeScript",
+            "last_commit": "2024-10-14T10:48:06Z",
+            "owner": "benallfree",
+            "repo": "pocketbase-node",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ejs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28671602,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T19:03:48Z",
+            "owner": "mde",
+            "repo": "ejs",
+            "stars": 8119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pocketbase-ejs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 854452326,
+            "language": null,
+            "last_commit": "2025-01-27T00:07:14Z",
+            "owner": "benallfree",
+            "repo": "pocketbase-ejs",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marked",
+          "description": "works without changes A markdown parser and compiler. Built for speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2096579,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T16:06:37Z",
+            "owner": "markedjs",
+            "repo": "marked",
+            "stars": 37086
+          }
+        }
+      ],
+      "title": "PocketPorts Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:57:05.046Z",
+    "last_updated": "2026-08-24T14:12:29.215Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_id": 544865531,
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
