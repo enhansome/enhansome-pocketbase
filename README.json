@@ -15,7 +15,7 @@
             "last_commit": "2026-08-23T04:44:51Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60774
+            "stars": 60786
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-22T19:30:42Z",
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 508
+            "stars": 509
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 582984879,
             "language": "Svelte",
-            "last_commit": "2026-08-20T22:38:15Z",
+            "last_commit": "2026-08-24T07:15:41Z",
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
             "stars": 233
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 616204629,
             "language": "Go",
-            "last_commit": "2026-08-20T19:01:33Z",
+            "last_commit": "2026-08-23T11:10:36Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-proxy",
             "stars": 23
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 904944407,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:43:57Z",
+            "last_commit": "2026-08-23T19:02:21Z",
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 24
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-22T19:30:42Z",
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 508
+            "stars": 509
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2026-08-23T04:44:51Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60774
+            "stars": 60786
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-08-23T04:44:51Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60774
+            "stars": 60786
           }
         },
         {
@@ -1262,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:35:28.799Z",
+    "last_updated": "2026-08-24T09:57:05.046Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_id": 544865531,
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
