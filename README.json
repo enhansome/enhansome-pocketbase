@@ -12,10 +12,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-24T14:07:59Z",
+            "last_commit": "2026-08-24T15:16:58Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60789
+            "stars": 60799
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 582984879,
             "language": "Svelte",
-            "last_commit": "2026-08-24T07:15:41Z",
+            "last_commit": "2026-08-25T00:56:51Z",
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
             "stars": 233
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 589679365,
             "language": "Go",
-            "last_commit": "2026-08-23T06:58:43Z",
+            "last_commit": "2026-08-24T20:37:59Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
             "stars": 51
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 904944407,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T19:02:21Z",
+            "last_commit": "2026-08-24T18:55:22Z",
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 24
@@ -573,7 +573,7 @@
             "last_commit": "2026-01-24T15:38:17Z",
             "owner": "PSCourtney",
             "repo": "PocketBaseSharp",
-            "stars": 43
+            "stars": 44
           }
         }
       ],
@@ -759,10 +759,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-24T14:07:59Z",
+            "last_commit": "2026-08-24T15:16:58Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60789
+            "stars": 60799
           }
         },
         {
@@ -774,10 +774,10 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-24T14:07:59Z",
+            "last_commit": "2026-08-24T15:16:58Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60789
+            "stars": 60799
           }
         },
         {
@@ -1359,10 +1359,10 @@
             "archived": false,
             "id": 2096579,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T16:06:37Z",
+            "last_commit": "2026-08-24T16:52:10Z",
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37086
+            "stars": 37087
           }
         }
       ],
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:29.215Z",
+    "last_updated": "2026-08-25T06:11:03.293Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_id": 544865531,
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
