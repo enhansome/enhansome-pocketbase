@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T15:16:58Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60800
+            "stars": 60810
           }
         },
         {
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 616204629,
             "language": "Go",
-            "last_commit": "2026-08-23T11:10:36Z",
+            "last_commit": "2026-08-25T19:15:07Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-proxy",
             "stars": 23
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 616170542,
             "language": "Go",
-            "last_commit": "2026-08-23T06:46:51Z",
+            "last_commit": "2026-08-25T12:44:08Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-ngrok",
             "stars": 11
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-10T23:06:11Z",
             "owner": "nathanstitt",
             "repo": "pbtsdb",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 904944407,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:55:22Z",
+            "last_commit": "2026-08-25T20:13:38Z",
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 24
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-24T15:16:58Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60800
+            "stars": 60810
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-24T15:16:58Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60800
+            "stars": 60810
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-08-11T17:03:15Z",
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2817
+            "stars": 2818
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2026-08-10T19:03:48Z",
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8119
+            "stars": 8121
           }
         },
         {
@@ -1362,7 +1362,7 @@
             "last_commit": "2026-08-24T16:52:10Z",
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37088
+            "stars": 37091
           }
         }
       ],
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:44:42.515Z",
+    "last_updated": "2026-08-26T09:51:37.963Z",
     "original_repository": "benallfree/awesome-pocketbase",
     "original_repository_id": 544865531,
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
