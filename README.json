@@ -12,11 +12,12 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-24T15:16:58Z",
+            "last_commit": "2026-08-28T09:28:23Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60849
-          }
+            "stars": 60864
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pocketbase",
             "repo": "js-sdk",
             "stars": 2931
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "pocketbase",
             "repo": "dart-sdk",
             "stars": 717
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Official Packages"
@@ -67,7 +70,8 @@
             "owner": "patmood",
             "repo": "pocketbase-typegen",
             "stars": 827
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "muchobien",
             "repo": "pocketbase-docker",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
             "stars": 508
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "mrwyndham",
             "repo": "pocketbase-stripe",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "danawoodman",
             "repo": "sveltekit-auth-example",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "mrwyndham",
             "repo": "pocketbase-lemonsqueezy",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Top PocketBase-specific Projects (>100 stars)"
@@ -178,7 +188,8 @@
             "owner": "benallfree",
             "repo": "pocketpages",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "benallfree",
             "repo": "pocketbase-presigned-urls",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "benallfree",
             "repo": "pocketbase-otp",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "JSVM Plugins"
@@ -229,7 +242,8 @@
             "owner": "magooney-loon",
             "repo": "pb-ext",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "Snonky",
             "repo": "pocketbase-gogen",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "Vogeslu",
             "repo": "pocketbase-ts-generator",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -285,11 +302,12 @@
             "archived": false,
             "id": 616204629,
             "language": "Go",
-            "last_commit": "2026-08-25T19:15:07Z",
+            "last_commit": "2026-08-28T01:53:03Z",
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-proxy",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-ngrok",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Go Plugins"
@@ -325,7 +344,8 @@
             "owner": "tobicrain",
             "repo": "pocketbase-react",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "tsensei",
             "repo": "nextjs-pocketbase-starter-template",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "nathanstitt",
             "repo": "pbtsdb",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "g12i",
             "repo": "next-pocketbase-auth",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "React"
@@ -406,7 +430,8 @@
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
             "stars": 508
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "Egor-S",
             "repo": "pocketbase-sveltekit-static",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "goknsh",
             "repo": "svelte-query-pocketbase",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Svelte"
@@ -457,7 +484,8 @@
             "owner": "j-wil",
             "repo": "pocket-nuxt",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -472,7 +500,8 @@
             "owner": "StefanVDWeide",
             "repo": "pocketbase-vue",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -487,7 +516,8 @@
             "owner": "aaronblondeau",
             "repo": "pocketbase_quasar_starter",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Vue"
@@ -508,7 +538,8 @@
             "owner": "rodydavis",
             "repo": "pocketbase_drift",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -523,7 +554,8 @@
             "owner": "rohitsangwan01",
             "repo": "pocketbase_server_flutter",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -538,7 +570,8 @@
             "owner": "rodydavis",
             "repo": "pocketbase_dart_generator",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Dart/Flutter"
@@ -559,7 +592,8 @@
             "owner": "iluvadev",
             "repo": "PocketBaseClient",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -574,7 +608,8 @@
             "owner": "PSCourtney",
             "repo": "PocketBaseSharp",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "C#"
@@ -595,7 +630,8 @@
             "owner": "Hax-io",
             "repo": "libpb",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "D"
@@ -616,7 +652,8 @@
             "owner": "benallfree",
             "repo": "gobot",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Node.js"
@@ -637,7 +674,8 @@
             "owner": "vaphes",
             "repo": "pocketbase",
             "stars": 545
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -652,7 +690,8 @@
             "owner": "pluja",
             "repo": "pocketbase",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -667,7 +706,8 @@
             "owner": "thijsmie",
             "repo": "pocketbase",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -682,7 +722,8 @@
             "owner": "sreedevk",
             "repo": "pocketbase-sdk-rust",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -697,7 +738,8 @@
             "owner": "agrevster",
             "repo": "pocketbase-kotlin",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -712,7 +754,8 @@
             "owner": "PRCV1",
             "repo": "pocketbase-csharp-sdk",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -727,7 +770,8 @@
             "owner": "Sov3rain",
             "repo": "pocketbase-unity",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -742,7 +786,8 @@
             "owner": "IdanAizikNissim",
             "repo": "pocketbase-kt",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Unofficial PocketBase Clients (SDKs)"
@@ -759,11 +804,12 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-24T15:16:58Z",
+            "last_commit": "2026-08-28T09:28:23Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60849
-          }
+            "stars": 60864
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -774,11 +820,12 @@
             "archived": false,
             "id": 510607652,
             "language": "Go",
-            "last_commit": "2026-08-24T15:16:58Z",
+            "last_commit": "2026-08-28T09:28:23Z",
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60849
-          }
+            "stars": 60864
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -793,7 +840,8 @@
             "owner": "magooney-loon",
             "repo": "pb-deployer",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -808,7 +856,8 @@
             "owner": "user0608",
             "repo": "pb_launcher",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -823,7 +872,8 @@
             "owner": "blockshiftnetwork",
             "repo": "dokku-pocketbase",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -838,7 +888,8 @@
             "owner": "kdpuvvadi",
             "repo": "pocketbase",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -853,7 +904,8 @@
             "owner": "boustanihani",
             "repo": "pocketbase-lightsail-hosting",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -868,7 +920,8 @@
             "owner": "metruzanca",
             "repo": "pocketbase_railway",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Self Hosting"
@@ -889,7 +942,8 @@
             "owner": "david-plugge",
             "repo": "typed-pocketbase",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -904,7 +958,8 @@
             "owner": "emresandikci",
             "repo": "pocketbase-query",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -919,7 +974,8 @@
             "owner": "satohshi",
             "repo": "pocketbase-schema-generator",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -934,7 +990,8 @@
             "owner": "sergio9929",
             "repo": "pb-query",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1006,8 @@
             "owner": "satohshi",
             "repo": "pocketbase-ts",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1022,8 @@
             "owner": "benallfree",
             "repo": "ts-pb-hooks-starter",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1038,8 @@
             "owner": "benallfree",
             "repo": "pocketbase-jsvm",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1054,8 @@
             "owner": "Karnak19",
             "repo": "pbkit",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "TypeScript tools"
@@ -1015,7 +1076,8 @@
             "owner": "maxpert",
             "repo": "marmot",
             "stars": 2819
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1092,8 @@
             "owner": "TylerSustare",
             "repo": "pocketbase-framework-litestream",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1108,8 @@
             "owner": "bscott",
             "repo": "pocketbase-litestream",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1124,8 @@
             "owner": "burggraf",
             "repo": "pb-import",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "SQLite tools"
@@ -1081,7 +1146,8 @@
             "owner": "joseferben",
             "repo": "pocketbase-queue",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1162,8 @@
             "owner": "rohitsangwan01",
             "repo": "pocketbase_mobile",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1178,8 @@
             "owner": "nedpals",
             "repo": "pbf",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1194,8 @@
             "owner": "magooney-loon",
             "repo": "pb-llm",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1210,8 @@
             "owner": "Perufitlife",
             "repo": "pocketbase-security-skill",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Other tools"
@@ -1162,7 +1232,8 @@
             "owner": "patmood",
             "repo": "vim_snake",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1248,8 @@
             "owner": "rohitsangwan01",
             "repo": "flutter_pocketbase_chat",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1264,8 @@
             "owner": "rajesh6161",
             "repo": "pbRealtimeBlog",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1280,8 @@
             "owner": "tametsi",
             "repo": "adnexos",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1296,8 @@
             "owner": "PocketTogether",
             "repo": "pocket-chat",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1312,8 @@
             "owner": "rajesh6161",
             "repo": "pocketbaseTodo",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1328,8 @@
             "owner": "cobeo2004",
             "repo": "pocketbase-libsql",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1344,8 @@
             "owner": "rajesh6161",
             "repo": "pocketbase-oauth-demo",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1360,8 @@
             "owner": "JunoNgx",
             "repo": "justjot-frontend",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1376,8 @@
             "owner": "davidbarton",
             "repo": "pocketbase-cookie-auth-demo",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Showcases"
@@ -1318,7 +1398,8 @@
             "owner": "benallfree",
             "repo": "pocketbase-node",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1414,8 @@
             "owner": "mde",
             "repo": "ejs",
             "stars": 8121
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1430,8 @@
             "owner": "benallfree",
             "repo": "pocketbase-ejs",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         },
         {
           "node_type": "item",
@@ -1362,15 +1445,16 @@
             "last_commit": "2026-08-24T16:52:10Z",
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37096
-          }
+            "stars": 37097
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "PocketPorts Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:47:45.813Z",
+    "last_updated": "2026-08-28T20:48:51.192Z",
     "original_repository_info": {
       "archived": false,
       "id": 544865531,
@@ -1378,7 +1462,7 @@
       "last_commit": "2026-07-08T22:06:56Z",
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1197
+      "stars": 1198
     },
     "original_repository_sha": "93c0b5f8f7adb1c3a6c20e300e47f2e64e6aae3a",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
