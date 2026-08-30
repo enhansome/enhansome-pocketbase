@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60873,
+            "stars": 60884,
             "topics": [
               "authentication",
               "backend",
@@ -45,7 +45,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2932,
+            "stars": 2933,
             "topics": [
               "javascript",
               "pocketbase"
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "dart-sdk",
-            "stars": 717,
+            "stars": 716,
             "topics": [
               "dart",
               "pocketbase"
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "pocketbase",
               "typegen",
@@ -387,8 +387,8 @@
             "id": 589679365,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:03:45Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-29T17:32:36Z",
+            "open_issues": 6,
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
             "stars": 51,
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60873,
+            "stars": 60884,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60873,
+            "stars": 60884,
             "topics": [
               "authentication",
               "backend",
@@ -1551,7 +1551,7 @@
             "open_issues": 3,
             "owner": "Karnak19",
             "repo": "pbkit",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2096,7 +2096,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-10T19:03:48Z",
-            "open_issues": 28,
+            "open_issues": 27,
             "owner": "mde",
             "repo": "ejs",
             "stars": 8123,
@@ -2138,10 +2138,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T16:52:10Z",
-            "open_issues": 21,
+            "open_issues": 24,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37099,
+            "stars": 37102,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:23:29.376Z",
+    "last_updated": "2026-08-30T14:23:10.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
