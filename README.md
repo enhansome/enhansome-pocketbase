@@ -31,7 +31,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Official Packages
 
-* [Golang Server](https://github.com/pocketbase/pocketbase/releases/) ⭐ 60,929 | 🐛 19 | 🌐 Go | 📅 2026-09-02 - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
+* [Golang Server](https://github.com/pocketbase/pocketbase/releases/) ⭐ 60,943 | 🐛 19 | 🌐 Go | 📅 2026-09-03 - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
 
 * [JavaScript SDK](https://github.com/pocketbase/js-sdk) ⭐ 2,936 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
 
@@ -85,7 +85,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Vue
 
-* [PocketNuxt](https://github.com/j-wil/pocket-nuxt) ⭐ 107 | 🐛 5 | 🌐 Vue | 📅 2023-07-12 - A Nuxt3 PocketBase starter that builds into a single binary. ![GitHub Repo stars](https://img.shields.io/github/stars/j-wil/pocket-nuxt)
+* [PocketNuxt](https://github.com/j-wil/pocket-nuxt) ⭐ 108 | 🐛 5 | 🌐 Vue | 📅 2023-07-12 - A Nuxt3 PocketBase starter that builds into a single binary. ![GitHub Repo stars](https://img.shields.io/github/stars/j-wil/pocket-nuxt)
 * [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) ⭐ 31 | 🐛 0 | 🌐 Vue | 📅 2022-11-30 - A starter kit for Vue 3 + Vite + PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/StefanVDWeide/pocketbase-vue)
 * [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter) ⭐ 9 | 🐛 3 | 🌐 Vue | 📅 2023-04-01 - Pocketbase with Quasar. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronblondeau/pocketbase_quasar_starter)
 * [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3) - Vue 3 tutorial.
@@ -126,8 +126,8 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Self Hosting
 
-* [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⭐ 60,929 | 🐛 19 | 🌐 Go | 📅 2026-09-02 - Guide to deploy in a Droplet.
-* [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⭐ 60,929 | 🐛 19 | 🌐 Go | 📅 2026-09-02 - Guide to deploy for free in Fly.io.
+* [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⭐ 60,943 | 🐛 19 | 🌐 Go | 📅 2026-09-03 - Guide to deploy in a Droplet.
+* [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⭐ 60,943 | 🐛 19 | 🌐 Go | 📅 2026-09-03 - Guide to deploy for free in Fly.io.
 * [pb-deployer](https://github.com/magooney-loon/pb-deployer) ⭐ 50 | 🐛 0 | 🌐 Svelte | 📅 2026-06-20 - Automates the lifecycle of deploying PocketBase apps to production ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-deployer)
 * [PBLauncher](https://github.com/user0608/pb_launcher) ⭐ 32 | 🐛 3 | 🌐 Go | 📅 2026-05-24 - Manage PocketBase instances — fast, lightweight, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/user0608/pb_launcher)
 * [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) ⭐ 25 | 🐛 1 | 🌐 Dockerfile | 📅 2025-06-05 - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
@@ -188,9 +188,9 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | OG Package                                                                                       | Ported Package                                                                                                 | Description                                      |                                                                                      |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | [Node.js](https://nodejs.org/docs/latest/api/)                                                   | [pocketbase-node](https://github.com/benallfree/pocketbase-node) ⭐ 8 \| 🐛 0 \| 🌐 TypeScript \| 📅 2024-10-14 | Node.js core packages (`fs`, `process`, etc)     | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
-| [ejs](https://github.com/mde/ejs) ⭐ 8,123 \| 🐛 27 \| 🌐 JavaScript \| 📅 2026-08-10             | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs) ⭐ 2 \| 🐛 0 \| 📅 2025-01-27                    | Embedded JavaScript templates - <http://ejs.co>  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
-| [marked](https://github.com/markedjs/marked) ⭐ 37,113 \| 🐛 28 \| 🌐 JavaScript \| 📅 2026-09-03 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
+| [ejs](https://github.com/mde/ejs) ⭐ 8,124 \| 🐛 27 \| 🌐 JavaScript \| 📅 2026-08-10             | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs) ⭐ 2 \| 🐛 0 \| 📅 2025-01-27                    | Embedded JavaScript templates - <http://ejs.co>  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
+| [marked](https://github.com/markedjs/marked) ⭐ 37,119 \| 🐛 21 \| 🌐 JavaScript \| 📅 2026-09-04 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
