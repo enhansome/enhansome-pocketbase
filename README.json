@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60943,
+            "stars": 60949,
             "topics": [
               "authentication",
               "backend",
@@ -41,7 +41,7 @@
             "id": 510463319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-19T15:05:07Z",
+            "last_commit": "2026-09-05T10:49:05Z",
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
@@ -65,7 +65,7 @@
             "id": 519728947,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-08-19T15:08:29Z",
+            "last_commit": "2026-09-05T10:38:37Z",
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "dart-sdk",
@@ -563,8 +563,8 @@
             "id": 1102541136,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-08-10T23:06:11Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-05T04:46:59Z",
+            "open_issues": 1,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
             "stars": 26,
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60943,
+            "stars": 60949,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 60943,
+            "stars": 60949,
             "topics": [
               "authentication",
               "backend",
@@ -1239,7 +1239,7 @@
             "open_issues": 0,
             "owner": "magooney-loon",
             "repo": "pb-deployer",
-            "stars": 50,
+            "stars": 49,
             "topics": [
               "automation",
               "pocketbase",
@@ -1701,7 +1701,7 @@
             "open_issues": 2,
             "owner": "rohitsangwan01",
             "repo": "pocketbase_mobile",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2137,7 +2137,7 @@
             "id": 2096579,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T05:59:56Z",
+            "last_commit": "2026-09-04T20:39:12Z",
             "open_issues": 21,
             "owner": "markedjs",
             "repo": "marked",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:24:47.351Z",
+    "last_updated": "2026-09-05T12:35:26.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
