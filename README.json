@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61007,
+            "stars": 61016,
             "topics": [
               "authentication",
               "backend",
@@ -45,7 +45,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2939,
+            "stars": 2938,
             "topics": [
               "javascript",
               "pocketbase"
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "pocketbase",
               "typegen",
@@ -178,7 +178,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-09-09T02:21:38Z",
+            "last_commit": "2026-09-10T21:59:07Z",
             "open_issues": 15,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -207,7 +207,7 @@
             "open_issues": 1,
             "owner": "mrwyndham",
             "repo": "pocketbase-stripe",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "go",
               "golang",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T04:26:03Z",
+            "last_commit": "2026-09-11T01:05:18Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -984,7 +984,7 @@
             "open_issues": 16,
             "owner": "vaphes",
             "repo": "pocketbase",
-            "stars": 545,
+            "stars": 544,
             "topics": [
               "client",
               "database",
@@ -1018,6 +1018,33 @@
         },
         {
           "node_type": "item",
+          "title": "Rust",
+          "description": "PocketBase Client in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rust SDK for Pocketbase",
+            "homepage": "https://git.devtechnica.com/sreedev/pocketbase-sdk-rust",
+            "id": 545956977,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-07-26T19:15:45Z",
+            "open_issues": 2,
+            "owner": "sreedevk",
+            "repo": "pocketbase-sdk-rust",
+            "stars": 72,
+            "topics": [
+              "pocketbase",
+              "rust",
+              "sdk-rust",
+              "webasm",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
+        },
+        {
+          "node_type": "item",
           "title": "Python (Async)",
           "description": "PocketBase Client in Python.",
           "children": [],
@@ -1039,33 +1066,6 @@
               "pocketbase",
               "python",
               "rest"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Rust",
-          "description": "PocketBase Client in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Rust SDK for Pocketbase",
-            "homepage": "https://git.devtechnica.com/sreedev/pocketbase-sdk-rust",
-            "id": 545956977,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-07-26T19:15:45Z",
-            "open_issues": 2,
-            "owner": "sreedevk",
-            "repo": "pocketbase-sdk-rust",
-            "stars": 71,
-            "topics": [
-              "pocketbase",
-              "rust",
-              "sdk-rust",
-              "webasm",
-              "webassembly"
             ]
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61007,
+            "stars": 61016,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61007,
+            "stars": 61016,
             "topics": [
               "authentication",
               "backend",
@@ -1317,7 +1317,7 @@
             "id": 716466609,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-07-03T05:25:59Z",
+            "last_commit": "2026-09-11T10:46:33Z",
             "open_issues": 0,
             "owner": "kdpuvvadi",
             "repo": "pocketbase",
@@ -2099,7 +2099,7 @@
             "open_issues": 27,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8123,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2138,10 +2138,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T03:00:31Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37132,
+            "stars": 37135,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:30:29.024Z",
+    "last_updated": "2026-09-11T13:28:37.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2170,7 +2170,7 @@
       "open_issues": 0,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1200,
+      "stars": 1201,
       "topics": [
         "awesome",
         "awesome-list",
