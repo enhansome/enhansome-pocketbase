@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61028,
+            "stars": 61037,
             "topics": [
               "authentication",
               "backend",
@@ -154,7 +154,7 @@
             "open_issues": 3,
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 507,
+            "stars": 508,
             "topics": [
               "backend",
               "frontend",
@@ -563,7 +563,7 @@
             "id": 1102541136,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-12T04:29:46Z",
+            "last_commit": "2026-09-14T01:50:53Z",
             "open_issues": 0,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
@@ -640,7 +640,7 @@
             "open_issues": 3,
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 507,
+            "stars": 508,
             "topics": [
               "backend",
               "frontend",
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61028,
+            "stars": 61037,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61028,
+            "stars": 61037,
             "topics": [
               "authentication",
               "backend",
@@ -2096,7 +2096,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-10T19:03:48Z",
-            "open_issues": 29,
+            "open_issues": 26,
             "owner": "mde",
             "repo": "ejs",
             "stars": 8125,
@@ -2137,11 +2137,11 @@
             "id": 2096579,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T21:42:57Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-14T15:32:50Z",
+            "open_issues": 19,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37140,
+            "stars": 37141,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:46:16.772Z",
+    "last_updated": "2026-09-14T15:51:19.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
