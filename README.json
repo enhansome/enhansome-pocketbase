@@ -15,11 +15,11 @@
             "id": 510607652,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:07:15Z",
+            "last_commit": "2026-09-16T11:43:00Z",
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61040,
+            "stars": 61053,
             "topics": [
               "authentication",
               "backend",
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 827,
+            "stars": 826,
             "topics": [
               "pocketbase",
               "typegen",
@@ -178,7 +178,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-09-15T00:53:31Z",
+            "last_commit": "2026-09-15T17:46:01Z",
             "open_issues": 15,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T00:59:48Z",
+            "last_commit": "2026-09-16T11:01:58Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -984,7 +984,7 @@
             "open_issues": 16,
             "owner": "vaphes",
             "repo": "pocketbase",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "client",
               "database",
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "sreedevk",
             "repo": "pocketbase-sdk-rust",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "pocketbase",
               "rust",
@@ -1183,11 +1183,11 @@
             "id": 510607652,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:07:15Z",
+            "last_commit": "2026-09-16T11:43:00Z",
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61040,
+            "stars": 61053,
             "topics": [
               "authentication",
               "backend",
@@ -1209,11 +1209,11 @@
             "id": 510607652,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:07:15Z",
+            "last_commit": "2026-09-16T11:43:00Z",
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61040,
+            "stars": 61053,
             "topics": [
               "authentication",
               "backend",
@@ -1578,7 +1578,7 @@
             "open_issues": 16,
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2819,
+            "stars": 2820,
             "topics": [
               "database",
               "distributed",
@@ -1918,7 +1918,7 @@
             "id": 1092128275,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T12:03:29Z",
+            "last_commit": "2026-09-16T11:55:54Z",
             "open_issues": 0,
             "owner": "PocketTogether",
             "repo": "pocket-chat",
@@ -2099,7 +2099,7 @@
             "open_issues": 26,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8125,
+            "stars": 8126,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2141,7 +2141,7 @@
             "open_issues": 18,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37145,
+            "stars": 37150,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:17:30.776Z",
+    "last_updated": "2026-09-16T14:09:37.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2170,7 +2170,7 @@
       "open_issues": 0,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1203,
+      "stars": 1204,
       "topics": [
         "awesome",
         "awesome-list",
