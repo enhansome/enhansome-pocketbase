@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61053,
+            "stars": 61068,
             "topics": [
               "authentication",
               "backend",
@@ -178,7 +178,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:46:01Z",
+            "last_commit": "2026-09-17T02:31:45Z",
             "open_issues": 15,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:01:58Z",
+            "last_commit": "2026-09-17T02:08:11Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1086,7 +1086,7 @@
             "open_issues": 1,
             "owner": "agrevster",
             "repo": "pocketbase-kotlin",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "kotlin",
               "kotlin-library",
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61053,
+            "stars": 61068,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61053,
+            "stars": 61068,
             "topics": [
               "authentication",
               "backend",
@@ -1239,7 +1239,7 @@
             "open_issues": 0,
             "owner": "magooney-loon",
             "repo": "pb-deployer",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "automation",
               "pocketbase",
@@ -1464,7 +1464,7 @@
             "open_issues": 3,
             "owner": "sergio9929",
             "repo": "pb-query",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1978,7 +1978,7 @@
             "open_issues": 0,
             "owner": "cobeo2004",
             "repo": "pocketbase-libsql",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2099,7 +2099,7 @@
             "open_issues": 26,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8126,
+            "stars": 8127,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2141,7 +2141,7 @@
             "open_issues": 18,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37150,
+            "stars": 37156,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:09:37.715Z",
+    "last_updated": "2026-09-17T14:15:02.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
