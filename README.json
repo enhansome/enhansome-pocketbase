@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61124,
+            "stars": 61132,
             "topics": [
               "authentication",
               "backend",
@@ -45,7 +45,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2940,
+            "stars": 2941,
             "topics": [
               "javascript",
               "pocketbase"
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 827,
+            "stars": 826,
             "topics": [
               "pocketbase",
               "typegen",
@@ -154,7 +154,7 @@
             "open_issues": 3,
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "backend",
               "frontend",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T00:24:20Z",
+            "last_commit": "2026-09-22T23:01:33Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -640,7 +640,7 @@
             "open_issues": 3,
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "backend",
               "frontend",
@@ -797,7 +797,7 @@
             "open_issues": 7,
             "owner": "rodydavis",
             "repo": "pocketbase_drift",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61124,
+            "stars": 61132,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61124,
+            "stars": 61132,
             "topics": [
               "authentication",
               "backend",
@@ -2099,7 +2099,7 @@
             "open_issues": 26,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8127,
+            "stars": 8128,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2141,7 +2141,7 @@
             "open_issues": 17,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37196,
+            "stars": 37201,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:00:12.220Z",
+    "last_updated": "2026-09-23T14:11:40.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2170,7 +2170,7 @@
       "open_issues": 1,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1205,
+      "stars": 1206,
       "topics": [
         "awesome",
         "awesome-list",
