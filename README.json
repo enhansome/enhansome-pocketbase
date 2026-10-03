@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61253,
+            "stars": 61258,
             "topics": [
               "authentication",
               "backend",
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61253,
+            "stars": 61258,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61253,
+            "stars": 61258,
             "topics": [
               "authentication",
               "backend",
@@ -1578,7 +1578,7 @@
             "open_issues": 38,
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2823,
+            "stars": 2822,
             "topics": [
               "database",
               "distributed",
@@ -2099,7 +2099,7 @@
             "open_issues": 26,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8128,
+            "stars": 8127,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2141,7 +2141,7 @@
             "open_issues": 27,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37220,
+            "stars": 37221,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:58.516Z",
+    "last_updated": "2026-10-03T14:16:05.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
