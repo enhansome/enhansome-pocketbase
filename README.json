@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61343,
+            "stars": 61344,
             "topics": [
               "authentication",
               "backend",
@@ -45,7 +45,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2944,
+            "stars": 2943,
             "topics": [
               "javascript",
               "pocketbase"
@@ -233,7 +233,7 @@
             "open_issues": 5,
             "owner": "danawoodman",
             "repo": "sveltekit-auth-example",
-            "stars": 121,
+            "stars": 119,
             "topics": [
               "auth",
               "authentication",
@@ -563,7 +563,7 @@
             "id": 1102541136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T02:43:02Z",
+            "last_commit": "2026-10-10T00:25:15Z",
             "open_issues": 0,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T01:38:12Z",
+            "last_commit": "2026-10-10T09:48:07Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1187,7 +1187,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61343,
+            "stars": 61344,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1213,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61343,
+            "stars": 61344,
             "topics": [
               "authentication",
               "backend",
@@ -1292,7 +1292,7 @@
             "open_issues": 1,
             "owner": "blockshiftnetwork",
             "repo": "dokku-pocketbase",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "api",
               "backend",
@@ -1840,7 +1840,7 @@
             "open_issues": 2,
             "owner": "rohitsangwan01",
             "repo": "flutter_pocketbase_chat",
-            "stars": 74,
+            "stars": 75,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2099,7 +2099,7 @@
             "open_issues": 24,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8127,
+            "stars": 8122,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2141,7 +2141,7 @@
             "open_issues": 20,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37228,
+            "stars": 37225,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:05:03.435Z",
+    "last_updated": "2026-10-10T15:13:25.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2170,7 +2170,7 @@
       "open_issues": 0,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1207,
+      "stars": 1208,
       "topics": [
         "awesome",
         "awesome-list",
