@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61390,
+            "stars": 61402,
             "topics": [
               "authentication",
               "backend",
@@ -178,7 +178,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-13T02:35:28Z",
+            "last_commit": "2026-10-13T18:59:01Z",
             "open_issues": 15,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T00:47:15Z",
+            "last_commit": "2026-10-13T19:25:31Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1164,6 +1164,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby",
+          "description": "PocketBase Client in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ruby SDK for PocketBase (port of pocketbase/js-sdk) — zero dependencies",
+            "homepage": null,
+            "id": 1414627277,
+            "language": "Ruby",
+            "license": "MIT",
+            "last_commit": "2026-10-12T03:37:02Z",
+            "open_issues": 0,
+            "owner": "azmi2409",
+            "repo": "pocketbase-ruby",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T14:27:23.274Z"
         }
       ],
       "title": "Unofficial PocketBase Clients (SDKs)"
@@ -1187,7 +1208,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61390,
+            "stars": 61402,
             "topics": [
               "authentication",
               "backend",
@@ -1213,7 +1234,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61390,
+            "stars": 61402,
             "topics": [
               "authentication",
               "backend",
@@ -1338,7 +1359,7 @@
             "id": 1097785973,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-10-12T22:38:41Z",
+            "last_commit": "2026-10-14T13:10:28Z",
             "open_issues": 0,
             "owner": "boustanihani",
             "repo": "pocketbase-lightsail-hosting",
@@ -1964,6 +1985,36 @@
         },
         {
           "node_type": "item",
+          "title": "Facet",
+          "description": "Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the Facet Cloud creator platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self-hostable personal profile and portfolio platform on PocketBase and Svelte. The open-source core behind Facet Cloud.",
+            "homepage": "https://get-facet.com",
+            "id": 1125534813,
+            "language": "Svelte",
+            "license": "MIT",
+            "last_commit": "2026-07-16T00:32:08Z",
+            "open_issues": 0,
+            "owner": "jesposito",
+            "repo": "Facet",
+            "stars": 22,
+            "topics": [
+              "go",
+              "personal-website",
+              "pocketbase",
+              "portfolio",
+              "self-hosted",
+              "sqlite",
+              "svelte",
+              "sveltekit"
+            ]
+          },
+          "first_seen": "2026-10-14T14:27:23.274Z"
+        },
+        {
+          "node_type": "item",
           "title": "pocketbase-libsql",
           "description": "Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept",
           "children": [],
@@ -2099,7 +2150,7 @@
             "open_issues": 27,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8124,
+            "stars": 8123,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2137,11 +2188,11 @@
             "id": 2096579,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T12:28:45Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-14T00:18:28Z",
+            "open_issues": 27,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37236,
+            "stars": 37237,
             "topics": [
               "commonmark",
               "compiler",
@@ -2158,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:53:04.779Z",
+    "last_updated": "2026-10-14T14:27:23.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2166,8 +2217,8 @@
       "id": 544865531,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-29T18:23:04Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-14T04:59:37Z",
+      "open_issues": 0,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
       "stars": 1210,
@@ -2178,7 +2229,7 @@
         "pocketbase"
       ]
     },
-    "original_repository_sha": "062db6ed22333624bdbc65fe754a87ce145ab439",
+    "original_repository_sha": "cec5f04916758c3bfc0b04d690724730e0d7c181",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
     "enhanced_repository_description": null,
     "title": "Awesome PocketBase with stars"

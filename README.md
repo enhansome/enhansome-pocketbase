@@ -31,7 +31,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Official Packages
 
-* [Golang Server](https://github.com/pocketbase/pocketbase/releases/) ⭐ 61,390 | 🐛 19 | 🌐 Go | 📅 2026-10-12 - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
+* [Golang Server](https://github.com/pocketbase/pocketbase/releases/) ⭐ 61,402 | 🐛 19 | 🌐 Go | 📅 2026-10-12 - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
 
 * [JavaScript SDK](https://github.com/pocketbase/js-sdk) ⭐ 2,943 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-05 - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
 
@@ -123,16 +123,17 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [C#](https://github.com/PRCV1/pocketbase-csharp-sdk) ⚠️ Archived - PocketBase Client in C#. ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
 * [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-03-30 - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
 * [Kotlin (Multiplatform)](https://github.com/IdanAizikNissim/pocketbase-kt) ⭐ 11 | 🐛 2 | 🌐 Kotlin | 📅 2026-02-12 - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/IdanAizikNissim/pocketbase-kt)
+* [Ruby](https://github.com/azmi2409/pocketbase-ruby) ⭐ 0 | 🐛 0 | 🌐 Ruby | 📅 2026-10-12 - PocketBase Client in Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/azmi2409/pocketbase-ruby)
 
 ## Self Hosting
 
-* [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⭐ 61,390 | 🐛 19 | 🌐 Go | 📅 2026-10-12 - Guide to deploy in a Droplet.
-* [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⭐ 61,390 | 🐛 19 | 🌐 Go | 📅 2026-10-12 - Guide to deploy for free in Fly.io.
+* [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⭐ 61,402 | 🐛 19 | 🌐 Go | 📅 2026-10-12 - Guide to deploy in a Droplet.
+* [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⭐ 61,402 | 🐛 19 | 🌐 Go | 📅 2026-10-12 - Guide to deploy for free in Fly.io.
 * [pb-deployer](https://github.com/magooney-loon/pb-deployer) ⭐ 50 | 🐛 0 | 🌐 Svelte | 📅 2026-06-20 - Automates the lifecycle of deploying PocketBase apps to production ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-deployer)
 * [PBLauncher](https://github.com/user0608/pb_launcher) ⭐ 34 | 🐛 3 | 🌐 Go | 📅 2026-05-24 - Manage PocketBase instances — fast, lightweight, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/user0608/pb_launcher)
 * [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) ⭐ 24 | 🐛 1 | 🌐 Dockerfile | 📅 2025-06-05 - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
 * [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) ⭐ 13 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-08 - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)
-* [AWS Lightsail](https://github.com/boustanihani/pocketbase-lightsail-hosting) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-12 - Guide to deploy to AWS Lightsail.
+* [AWS Lightsail](https://github.com/boustanihani/pocketbase-lightsail-hosting) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-14 - Guide to deploy to AWS Lightsail.
 * [Railway](https://github.com/metruzanca/pocketbase_railway) ⭐ 0 | 🐛 0 | 🌐 Dockerfile | 📅 2025-11-23 - Guide to deploy on Railway.
 * [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 
@@ -175,6 +176,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [Adnexos](https://github.com/tametsi/adnexos) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-05-31 - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
 * [PocketChat](https://github.com/PocketTogether/pocket-chat) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A real-time chat platform built with PocketBase and Vue3, supporting OAuth, notifications, PWA, file/image sharing, permissions, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/PocketTogether/pocket-chat)
 * [ToDo](https://github.com/rajesh6161/pocketbaseTodo) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 - React-based To-Do demo app. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbaseTodo)
+* [Facet](https://github.com/jesposito/Facet) ⭐ 22 | 🐛 0 | 🌐 Svelte | 📅 2026-07-16 - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
 * [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2025-07-25 - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 * [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-22 - A React-based oAuth demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbase-oauth-demo)
 * [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-27 / [backend repo](https://github.com/JunoNgx/justjot-backend) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-27 ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
@@ -188,9 +190,9 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | OG Package                                                                                       | Ported Package                                                                                                 | Description                                      |                                                                                      |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | [Node.js](https://nodejs.org/docs/latest/api/)                                                   | [pocketbase-node](https://github.com/benallfree/pocketbase-node) ⭐ 8 \| 🐛 0 \| 🌐 TypeScript \| 📅 2024-10-14 | Node.js core packages (`fs`, `process`, etc)     | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
-| [ejs](https://github.com/mde/ejs) ⭐ 8,124 \| 🐛 27 \| 🌐 JavaScript \| 📅 2026-10-08             | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs) ⭐ 3 \| 🐛 0 \| 📅 2025-01-27                    | Embedded JavaScript templates - <http://ejs.co>  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
-| [marked](https://github.com/markedjs/marked) ⭐ 37,236 \| 🐛 26 \| 🌐 JavaScript \| 📅 2026-10-12 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
+| [ejs](https://github.com/mde/ejs) ⭐ 8,123 \| 🐛 27 \| 🌐 JavaScript \| 📅 2026-10-08             | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs) ⭐ 3 \| 🐛 0 \| 📅 2025-01-27                    | Embedded JavaScript templates - <http://ejs.co>  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
+| [marked](https://github.com/markedjs/marked) ⭐ 37,237 \| 🐛 27 \| 🌐 JavaScript \| 📅 2026-10-14 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
