@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61454,
+            "stars": 61470,
             "topics": [
               "authentication",
               "backend",
@@ -207,7 +207,7 @@
             "open_issues": 1,
             "owner": "mrwyndham",
             "repo": "pocketbase-stripe",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "go",
               "golang",
@@ -414,10 +414,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-10-25T15:32:16Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Snonky",
             "repo": "pocketbase-gogen",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "codegenerator",
               "pocketbase"
@@ -1208,7 +1208,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61454,
+            "stars": 61470,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61454,
+            "stars": 61470,
             "topics": [
               "authentication",
               "backend",
@@ -2146,11 +2146,11 @@
             "id": 28671602,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T06:12:42Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-18T05:05:10Z",
+            "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8124,
+            "stars": 8125,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2189,10 +2189,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T00:18:28Z",
-            "open_issues": 28,
+            "open_issues": 30,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37241,
+            "stars": 37239,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:53:45.976Z",
+    "last_updated": "2026-10-18T13:09:30.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
