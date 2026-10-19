@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61470,
+            "stars": 61494,
             "topics": [
               "authentication",
               "backend",
@@ -99,7 +99,7 @@
             "open_issues": 6,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 830,
+            "stars": 829,
             "topics": [
               "pocketbase",
               "typegen",
@@ -124,7 +124,7 @@
             "open_issues": 2,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "amd64",
               "arm64",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T22:54:22Z",
+            "last_commit": "2026-10-18T21:06:50Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1018,6 +1018,33 @@
         },
         {
           "node_type": "item",
+          "title": "Python (Async)",
+          "description": "PocketBase Client in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An async Python 3.11+ PocketBase SDK",
+            "homepage": null,
+            "id": 749749466,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-12T19:28:00Z",
+            "open_issues": 2,
+            "owner": "thijsmie",
+            "repo": "pocketbase",
+            "stars": 73,
+            "topics": [
+              "async",
+              "database",
+              "pocketbase",
+              "python",
+              "rest"
+            ]
+          },
+          "first_seen": "2026-08-28T20:48:51.192Z"
+        },
+        {
+          "node_type": "item",
           "title": "Rust",
           "description": "PocketBase Client in Rust.",
           "children": [],
@@ -1039,33 +1066,6 @@
               "sdk-rust",
               "webasm",
               "webassembly"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Python (Async)",
-          "description": "PocketBase Client in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An async Python 3.11+ PocketBase SDK",
-            "homepage": null,
-            "id": 749749466,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-12T19:28:00Z",
-            "open_issues": 2,
-            "owner": "thijsmie",
-            "repo": "pocketbase",
-            "stars": 72,
-            "topics": [
-              "async",
-              "database",
-              "pocketbase",
-              "python",
-              "rest"
             ]
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61470,
+            "stars": 61494,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61470,
+            "stars": 61494,
             "topics": [
               "authentication",
               "backend",
@@ -2150,7 +2150,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8125,
+            "stars": 8124,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2188,11 +2188,11 @@
             "id": 2096579,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T00:18:28Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-19T15:32:50Z",
+            "open_issues": 31,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37239,
+            "stars": 37243,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:09:30.025Z",
+    "last_updated": "2026-10-19T16:24:21.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
