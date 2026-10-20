@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61494,
+            "stars": 61507,
             "topics": [
               "authentication",
               "backend",
@@ -45,7 +45,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2942,
+            "stars": 2943,
             "topics": [
               "javascript",
               "pocketbase"
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "dart-sdk",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "dart",
               "pocketbase"
@@ -99,7 +99,7 @@
             "open_issues": 6,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "pocketbase",
               "typegen",
@@ -178,7 +178,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-16T19:48:38Z",
+            "last_commit": "2026-10-20T12:00:54Z",
             "open_issues": 15,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -203,7 +203,7 @@
             "id": 696675806,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-03-23T03:18:49Z",
+            "last_commit": "2026-10-20T03:54:03Z",
             "open_issues": 1,
             "owner": "mrwyndham",
             "repo": "pocketbase-stripe",
@@ -260,7 +260,7 @@
             "id": 883562028,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2024-12-05T06:40:20Z",
+            "last_commit": "2026-10-20T03:55:30Z",
             "open_issues": 0,
             "owner": "mrwyndham",
             "repo": "pocketbase-lemonsqueezy",
@@ -483,7 +483,7 @@
             "id": 616170542,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T01:52:59Z",
+            "last_commit": "2026-10-20T12:58:06Z",
             "open_issues": 2,
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-ngrok",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T21:06:50Z",
+            "last_commit": "2026-10-20T12:04:10Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1208,7 +1208,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61494,
+            "stars": 61507,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61494,
+            "stars": 61507,
             "topics": [
               "authentication",
               "backend",
@@ -1569,7 +1569,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-11T15:05:37Z",
-            "open_issues": 3,
+            "open_issues": 6,
             "owner": "Karnak19",
             "repo": "pbkit",
             "stars": 12,
@@ -1999,7 +1999,7 @@
             "open_issues": 0,
             "owner": "jesposito",
             "repo": "Facet",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "go",
               "personal-website",
@@ -2150,7 +2150,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8124,
+            "stars": 8126,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2186,13 +2186,13 @@
             "description": "A markdown parser and compiler. Built for speed.",
             "homepage": "https://marked.js.org",
             "id": 2096579,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T15:32:50Z",
+            "last_commit": "2026-10-20T01:35:37Z",
             "open_issues": 31,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37243,
+            "stars": 37249,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:24:21.737Z",
+    "last_updated": "2026-10-20T14:15:01.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2221,7 +2221,7 @@
       "open_issues": 1,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1209,
+      "stars": 1210,
       "topics": [
         "awesome",
         "awesome-list",
