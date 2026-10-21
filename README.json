@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61507,
+            "stars": 61521,
             "topics": [
               "authentication",
               "backend",
@@ -45,7 +45,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2943,
+            "stars": 2942,
             "topics": [
               "javascript",
               "pocketbase"
@@ -387,7 +387,7 @@
             "id": 589679365,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:54:45Z",
+            "last_commit": "2026-10-20T16:06:03Z",
             "open_issues": 6,
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
@@ -458,7 +458,7 @@
             "id": 616204629,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T14:51:23Z",
+            "last_commit": "2026-10-20T16:43:52Z",
             "open_issues": 2,
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-proxy",
@@ -1208,7 +1208,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61507,
+            "stars": 61521,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 19,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61507,
+            "stars": 61521,
             "topics": [
               "authentication",
               "backend",
@@ -1599,7 +1599,7 @@
             "open_issues": 39,
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2823,
+            "stars": 2822,
             "topics": [
               "database",
               "distributed",
@@ -2150,7 +2150,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8126,
+            "stars": 8127,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2188,11 +2188,11 @@
             "id": 2096579,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T01:35:37Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-21T04:13:53Z",
+            "open_issues": 32,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37249,
+            "stars": 37252,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:15:01.161Z",
+    "last_updated": "2026-10-21T14:26:48.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
