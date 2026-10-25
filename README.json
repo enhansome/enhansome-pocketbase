@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-23T12:26:56Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61579,
+            "stars": 61607,
             "topics": [
               "authentication",
               "backend",
@@ -563,7 +563,7 @@
             "id": 1102541136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T20:00:54Z",
+            "last_commit": "2026-10-24T20:26:12Z",
             "open_issues": 1,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
@@ -1205,10 +1205,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-23T12:26:56Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61579,
+            "stars": 61607,
             "topics": [
               "authentication",
               "backend",
@@ -1231,10 +1231,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-23T12:26:56Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61579,
+            "stars": 61607,
             "topics": [
               "authentication",
               "backend",
@@ -2150,7 +2150,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8126,
+            "stars": 8127,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2189,10 +2189,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T04:13:53Z",
-            "open_issues": 40,
+            "open_issues": 42,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37264,
+            "stars": 37268,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:14:25.380Z",
+    "last_updated": "2026-10-25T13:40:03.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
