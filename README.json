@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61607,
+            "stars": 61625,
             "topics": [
               "authentication",
               "backend",
@@ -120,8 +120,8 @@
             "id": 512404791,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-27T10:48:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-26T06:54:01Z",
+            "open_issues": 3,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
             "stars": 569,
@@ -154,7 +154,7 @@
             "open_issues": 3,
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "backend",
               "frontend",
@@ -182,7 +182,7 @@
             "open_issues": 16,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
-            "stars": 235,
+            "stars": 234,
             "topics": [
               "pocketbase",
               "svelte",
@@ -563,8 +563,8 @@
             "id": 1102541136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T20:26:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-26T01:59:39Z",
+            "open_issues": 0,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
             "stars": 26,
@@ -640,7 +640,7 @@
             "open_issues": 3,
             "owner": "spinspire",
             "repo": "pocketbase-sveltekit-starter",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "backend",
               "frontend",
@@ -1208,7 +1208,7 @@
             "open_issues": 20,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61607,
+            "stars": 61625,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 20,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61607,
+            "stars": 61625,
             "topics": [
               "authentication",
               "backend",
@@ -1668,7 +1668,7 @@
             "open_issues": 2,
             "owner": "burggraf",
             "repo": "pb-import",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1995,8 +1995,8 @@
             "id": 1125534813,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:16:31Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-25T22:35:16Z",
+            "open_issues": 1,
             "owner": "jesposito",
             "repo": "Facet",
             "stars": 23,
@@ -2186,13 +2186,13 @@
             "description": "A markdown parser and compiler. Built for speed.",
             "homepage": "https://marked.js.org",
             "id": 2096579,
-            "language": "TypeScript",
+            "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T04:13:53Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-26T14:57:28Z",
+            "open_issues": 29,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37268,
+            "stars": 37274,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:40:03.001Z",
+    "last_updated": "2026-10-26T16:03:38.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2221,7 +2221,7 @@
       "open_issues": 1,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1210,
+      "stars": 1211,
       "topics": [
         "awesome",
         "awesome-list",
