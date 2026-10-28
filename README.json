@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61630,
+            "stars": 61625,
             "topics": [
               "authentication",
               "backend",
@@ -69,7 +69,7 @@
             "open_issues": 0,
             "owner": "pocketbase",
             "repo": "dart-sdk",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "dart",
               "pocketbase"
@@ -120,8 +120,8 @@
             "id": 512404791,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-10-26T06:54:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-28T11:20:26Z",
+            "open_issues": 1,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
             "stars": 569,
@@ -984,7 +984,7 @@
             "open_issues": 16,
             "owner": "vaphes",
             "repo": "pocketbase",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "client",
               "database",
@@ -1032,7 +1032,7 @@
             "open_issues": 2,
             "owner": "thijsmie",
             "repo": "pocketbase",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "async",
               "database",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61630,
+            "stars": 61625,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61630,
+            "stars": 61625,
             "topics": [
               "authentication",
               "backend",
@@ -1995,7 +1995,7 @@
             "id": 1125534813,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-27T02:08:07Z",
+            "last_commit": "2026-10-28T05:38:14Z",
             "open_issues": 2,
             "owner": "jesposito",
             "repo": "Facet",
@@ -2150,7 +2150,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8127,
+            "stars": 8126,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2188,7 +2188,7 @@
             "id": 2096579,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T14:57:28Z",
+            "last_commit": "2026-10-28T02:46:03Z",
             "open_issues": 30,
             "owner": "markedjs",
             "repo": "marked",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:17:03.183Z",
+    "last_updated": "2026-10-28T15:54:37.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
