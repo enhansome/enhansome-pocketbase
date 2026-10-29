@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61625,
+            "stars": 61627,
             "topics": [
               "authentication",
               "backend",
@@ -124,7 +124,7 @@
             "open_issues": 1,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "amd64",
               "arm64",
@@ -295,7 +295,7 @@
             "open_issues": 2,
             "owner": "benallfree",
             "repo": "pocketpages",
-            "stars": 300,
+            "stars": 301,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -563,7 +563,7 @@
             "id": 1102541136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T01:59:39Z",
+            "last_commit": "2026-10-28T23:18:16Z",
             "open_issues": 0,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61625,
+            "stars": 61627,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61625,
+            "stars": 61627,
             "topics": [
               "authentication",
               "backend",
@@ -1338,7 +1338,7 @@
             "id": 716466609,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-10-23T16:12:04Z",
+            "last_commit": "2026-10-29T12:01:26Z",
             "open_issues": 0,
             "owner": "kdpuvvadi",
             "repo": "pocketbase",
@@ -1840,7 +1840,7 @@
             "open_issues": 6,
             "owner": "patmood",
             "repo": "vim_snake",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1995,7 +1995,7 @@
             "id": 1125534813,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-28T05:38:14Z",
+            "last_commit": "2026-10-29T04:41:01Z",
             "open_issues": 2,
             "owner": "jesposito",
             "repo": "Facet",
@@ -2150,7 +2150,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8126,
+            "stars": 8127,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2192,7 +2192,7 @@
             "open_issues": 30,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37274,
+            "stars": 37275,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:54:37.719Z",
+    "last_updated": "2026-10-29T15:59:29.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
