@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61627,
+            "stars": 61623,
             "topics": [
               "authentication",
               "backend",
@@ -563,7 +563,7 @@
             "id": 1102541136,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T23:18:16Z",
+            "last_commit": "2026-10-30T20:02:37Z",
             "open_issues": 0,
             "owner": "nathanstitt",
             "repo": "pbtsdb",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61627,
+            "stars": 61623,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61627,
+            "stars": 61623,
             "topics": [
               "authentication",
               "backend",
@@ -1599,7 +1599,7 @@
             "open_issues": 39,
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2822,
+            "stars": 2825,
             "topics": [
               "database",
               "distributed",
@@ -2192,7 +2192,7 @@
             "open_issues": 30,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37275,
+            "stars": 37279,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:48:23.559Z",
+    "last_updated": "2026-10-31T15:15:05.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
