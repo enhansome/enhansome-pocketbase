@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61617,
+            "stars": 61611,
             "topics": [
               "authentication",
               "backend",
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 830,
+            "stars": 829,
             "topics": [
               "pocketbase",
               "typegen",
@@ -120,11 +120,11 @@
             "id": 512404791,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-01T06:54:38Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T10:45:57Z",
+            "open_issues": 1,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "amd64",
               "arm64",
@@ -178,7 +178,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-10-30T01:21:32Z",
+            "last_commit": "2026-11-01T21:57:17Z",
             "open_issues": 16,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T11:13:47Z",
+            "last_commit": "2026-11-02T16:38:47Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61617,
+            "stars": 61611,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61617,
+            "stars": 61611,
             "topics": [
               "authentication",
               "backend",
@@ -2102,7 +2102,7 @@
             "open_issues": 1,
             "owner": "davidbarton",
             "repo": "pocketbase-cookie-auth-demo",
-            "stars": 5,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2188,11 +2188,11 @@
             "id": 2096579,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T18:34:33Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-02T17:59:18Z",
+            "open_issues": 19,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37278,
+            "stars": 37279,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:56:26.447Z",
+    "last_updated": "2026-11-02T19:24:44.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
