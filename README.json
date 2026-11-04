@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61608,
+            "stars": 61609,
             "topics": [
               "authentication",
               "backend",
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 829,
+            "stars": 830,
             "topics": [
               "pocketbase",
               "typegen",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:38:47Z",
+            "last_commit": "2026-11-04T00:44:50Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61608,
+            "stars": 61609,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61608,
+            "stars": 61609,
             "topics": [
               "authentication",
               "backend",
@@ -1287,7 +1287,7 @@
             "open_issues": 3,
             "owner": "user0608",
             "repo": "pb_launcher",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "firebase",
               "pocketbase",
@@ -1436,7 +1436,7 @@
             "open_issues": 0,
             "owner": "emresandikci",
             "repo": "pocketbase-query",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "pcoketbase",
               "query",
@@ -1995,8 +1995,8 @@
             "id": 1125534813,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-11-03T08:24:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-04T10:06:24Z",
+            "open_issues": 1,
             "owner": "jesposito",
             "repo": "Facet",
             "stars": 23,
@@ -2085,27 +2085,6 @@
             ]
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Cookie auth demo",
-          "description": "A demo of cookie based authentication flow for PocketBase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Demo of cookie based authentication flow for PocketBase.",
-            "homepage": null,
-            "id": 843387896,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-07-12T18:11:33Z",
-            "open_issues": 1,
-            "owner": "davidbarton",
-            "repo": "pocketbase-cookie-auth-demo",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
         }
       ],
       "title": "Showcases"
@@ -2150,7 +2129,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8127,
+            "stars": 8128,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2189,10 +2168,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T17:59:18Z",
-            "open_issues": 22,
+            "open_issues": 24,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37280,
+            "stars": 37283,
             "topics": [
               "commonmark",
               "compiler",
@@ -2209,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T16:57:55.292Z",
+    "last_updated": "2026-11-04T17:03:18.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
