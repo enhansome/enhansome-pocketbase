@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61609,
+            "stars": 61606,
             "topics": [
               "authentication",
               "backend",
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "pocketbase",
               "typegen",
@@ -233,7 +233,7 @@
             "open_issues": 5,
             "owner": "danawoodman",
             "repo": "sveltekit-auth-example",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "auth",
               "authentication",
@@ -668,7 +668,7 @@
             "open_issues": 1,
             "owner": "Egor-S",
             "repo": "pocketbase-sveltekit-static",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "authorization",
               "pocketbase",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61609,
+            "stars": 61606,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61609,
+            "stars": 61606,
             "topics": [
               "authentication",
               "backend",
@@ -1995,8 +1995,8 @@
             "id": 1125534813,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-11-04T10:06:24Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-04T22:36:39Z",
+            "open_issues": 0,
             "owner": "jesposito",
             "repo": "Facet",
             "stars": 23,
@@ -2129,7 +2129,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8128,
+            "stars": 8129,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2168,10 +2168,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T17:59:18Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37283,
+            "stars": 37288,
             "topics": [
               "commonmark",
               "compiler",
@@ -2188,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:03:18.026Z",
+    "last_updated": "2026-11-05T17:18:11.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
