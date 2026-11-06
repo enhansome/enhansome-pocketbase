@@ -40,9 +40,9 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Top PocketBase-specific Projects (>100 stars)
 
 * [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) ⭐ 831 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30 - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
-* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) ⭐ 571 | 🐛 1 | 🌐 Shell | 📅 2026-11-02 - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
+* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) ⭐ 572 | 🐛 1 | 🌐 Shell | 📅 2026-11-02 - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
 * [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) ⭐ 510 | 🐛 3 | 🌐 Svelte | 📅 2026-08-22 - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
-* [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) ⭐ 234 | 🐛 16 | 🌐 Svelte | 📅 2026-11-03 - Demo login and registration pages with examples. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
+* [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) ⭐ 234 | 🐛 16 | 🌐 Svelte | 📅 2026-11-05 - Demo login and registration pages with examples. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
 * [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) ⭐ 226 | 🐛 1 | 🌐 Go | 📅 2026-10-20 - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
 * [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) ⭐ 119 | 🐛 5 | 🌐 TypeScript | 📅 2022-12-06 - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit. ![GitHub Repo stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example)
 * [PocketBase+Lemonsqueezy](https://github.com/mrwyndham/pocketbase-lemonsqueezy) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-20 - Go extended PocketBase for Lemonsqueezy subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-lemonsqueezy)
@@ -74,7 +74,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [PocketBase React](https://github.com/tobicrain/pocketbase-react) ⭐ 86 | 🐛 3 | 🌐 TypeScript | 📅 2025-02-24 - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/tobicrain/pocketbase-react)
 * [PocketBase Next.js App Template](https://github.com/tsensei/nextjs-pocketbase-starter-template) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2023-12-16 - PocketBase Next.js Template with server & browser client using cookies. ![GitHub Repo stars](https://img.shields.io/github/stars/tsensei/nextjs-pocketbase-starter-template)
 * [pbtsdb](https://github.com/nathanstitt/pbtsdb) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - A type-safe TanStack DB adapter to easily create LiveQueries with real-time subscriptions. ![GitHub Repo stars](https://img.shields.io/github/stars/nathanstitt/pbtsdb)
-* [Next.js PocketBase Auth](https://github.com/jianyuan/pocketbase-nextjs-auth) ⭐ 24 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-04 - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
+* [Next.js PocketBase Auth](https://github.com/jianyuan/pocketbase-nextjs-auth) ⭐ 24 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-05 - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
 * [next-pocketbase-auth](https://github.com/g12i/next-pocketbase-auth) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-30 - A lightweight authentication wrapper for Next.js applications, providing easy-to-use utilities for handling user session in both client and server components. ![GitHub Repo stars](https://img.shields.io/github/stars/g12i/next-pocketbase-auth)
 
 ## Svelte
@@ -119,7 +119,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [Go](https://github.com/pluja/pocketbase) ⭐ 81 | 🐛 4 | 🌐 Go | 📅 2025-01-22 - PocketBase Client in Golang. ![GitHub Repo stars](https://img.shields.io/github/stars/pluja/pocketbase)
 * [Python (Async)](https://github.com/thijsmie/pocketbase) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2026-10-12 - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/thijsmie/pocketbase)
 * [Rust](https://github.com/sreedevk/pocketbase-sdk-rust) ⭐ 73 | 🐛 2 | 🌐 Rust | 📅 2026-07-26 - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
-* [Kotlin](https://github.com/agrevster/pocketbase-kotlin) ⭐ 66 | 🐛 1 | 🌐 Kotlin | 📅 2026-04-09 - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/agrevster/pocketbase-kotlin)
+* [Kotlin](https://github.com/agrevster/pocketbase-kotlin) ⭐ 67 | 🐛 1 | 🌐 Kotlin | 📅 2026-04-09 - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/agrevster/pocketbase-kotlin)
 * [C#](https://github.com/PRCV1/pocketbase-csharp-sdk) ⚠️ Archived - PocketBase Client in C#. ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
 * [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) ⭐ 21 | 🐛 1 | 🌐 C# | 📅 2026-03-30 - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
 * [Kotlin (Multiplatform)](https://github.com/IdanAizikNissim/pocketbase-kt) ⭐ 11 | 🐛 2 | 🌐 Kotlin | 📅 2026-02-12 - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/IdanAizikNissim/pocketbase-kt)
@@ -150,7 +150,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## SQLite tools
 
-* [Marmot](https://github.com/maxpert/marmot) ⭐ 2,825 | 🐛 39 | 🌐 Go | 📅 2026-09-30 - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc). ![GitHub Repo stars](https://img.shields.io/github/stars/maxpert/marmot)
+* [Marmot](https://github.com/maxpert/marmot) ⭐ 2,826 | 🐛 39 | 🌐 Go | 📅 2026-09-30 - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc). ![GitHub Repo stars](https://img.shields.io/github/stars/maxpert/marmot)
 * [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) ⭐ 84 | 🐛 0 | 🌐 Dockerfile | 📅 2022-09-25 - Template showing Litestream running with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/TylerSustare/pocketbase-framework-litestream)
 * [PocketBase with Litestream](https://github.com/bscott/pocketbase-litestream/) ⭐ 82 | 🐛 2 | 🌐 Dockerfile | 📅 2023-09-21 - Docker example of PocketBase saving/restoring from Litestream. ![GitHub Repo stars](https://img.shields.io/github/stars/bscott/pocketbase-litestream)
 * [pb-import](https://github.com/burggraf/pb-import) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2024-01-09 - Import data from SQLite Databases as well as CSV and TSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/burggraf/pb-import)
@@ -191,8 +191,8 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | [Node.js](https://nodejs.org/docs/latest/api/)                                                   | [pocketbase-node](https://github.com/benallfree/pocketbase-node) ⭐ 8 \| 🐛 0 \| 🌐 TypeScript \| 📅 2024-10-14 | Node.js core packages (`fs`, `process`, etc)     | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
 | [ejs](https://github.com/mde/ejs) ⭐ 8,129 \| 🐛 22 \| 🌐 JavaScript \| 📅 2026-10-18             | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs) ⭐ 3 \| 🐛 0 \| 📅 2025-01-27                    | Embedded JavaScript templates - <http://ejs.co>  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
-| [marked](https://github.com/markedjs/marked) ⭐ 37,288 \| 🐛 25 \| 🌐 JavaScript \| 📅 2026-11-02 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
+| [marked](https://github.com/markedjs/marked) ⭐ 37,292 \| 🐛 26 \| 🌐 JavaScript \| 📅 2026-11-02 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
