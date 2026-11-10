@@ -45,7 +45,7 @@
             "open_issues": 0,
             "owner": "pocketbase",
             "repo": "js-sdk",
-            "stars": 2942,
+            "stars": 2941,
             "topics": [
               "javascript",
               "pocketbase"
@@ -99,7 +99,7 @@
             "open_issues": 5,
             "owner": "patmood",
             "repo": "pocketbase-typegen",
-            "stars": 831,
+            "stars": 832,
             "topics": [
               "pocketbase",
               "typegen",
@@ -120,7 +120,7 @@
             "id": 512404791,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-09T19:39:34Z",
+            "last_commit": "2026-11-09T23:12:53Z",
             "open_issues": 1,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
@@ -387,7 +387,7 @@
             "id": 589679365,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T13:04:14Z",
+            "last_commit": "2026-11-09T22:56:02Z",
             "open_issues": 5,
             "owner": "iamelevich",
             "repo": "pocketbase-plugin-telegram-auth",
@@ -584,7 +584,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T21:05:45Z",
+            "last_commit": "2026-11-09T22:51:53Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -984,7 +984,7 @@
             "open_issues": 16,
             "owner": "vaphes",
             "repo": "pocketbase",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "client",
               "database",
@@ -1415,7 +1415,7 @@
             "open_issues": 6,
             "owner": "david-plugge",
             "repo": "typed-pocketbase",
-            "stars": 111,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -1995,7 +1995,7 @@
             "id": 1125534813,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-11-04T22:36:39Z",
+            "last_commit": "2026-11-10T04:32:19Z",
             "open_issues": 0,
             "owner": "jesposito",
             "repo": "Facet",
@@ -2129,7 +2129,7 @@
             "open_issues": 22,
             "owner": "mde",
             "repo": "ejs",
-            "stars": 8131,
+            "stars": 8132,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2165,13 +2165,13 @@
             "description": "A markdown parser and compiler. Built for speed.",
             "homepage": "https://marked.js.org",
             "id": 2096579,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T15:32:35Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-09T23:04:40Z",
+            "open_issues": 40,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37296,
+            "stars": 37301,
             "topics": [
               "commonmark",
               "compiler",
@@ -2188,7 +2188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:43:14.708Z",
+    "last_updated": "2026-11-10T16:57:29.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2200,7 +2200,7 @@
       "open_issues": 1,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1213,
+      "stars": 1214,
       "topics": [
         "awesome",
         "awesome-list",
