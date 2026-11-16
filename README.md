@@ -9,6 +9,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Contents
 
 * [Official Packages](#official-packages)
+* [Forks](#forks)
 * [Top PocketBase-specific Projects (>100 stars)](#top-pocketbase-specific-projects-100-stars)
 * [Major Community Projects](#major-community-projects)
 * [JSVM Plugins](#jsvm-plugins)
@@ -27,7 +28,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [SQLite tools](#sqlite-tools)
 * [Other tools](#other-tools)
 * [Showcases](#showcases)
-* [PocketPorts Packages](#pocketports-packages)
 
 ## Official Packages
 
@@ -37,10 +37,14 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 * [Dart SDK](https://github.com/pocketbase/dart-sdk) ⚠️ Archived - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
 
+## Forks
+
+* [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pocketone)
+
 ## Top PocketBase-specific Projects (>100 stars)
 
 * [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) ⭐ 833 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30 - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
-* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) ⭐ 572 | 🐛 2 | 🌐 Shell | 📅 2026-11-15 - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
+* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) ⭐ 573 | 🐛 1 | 🌐 Shell | 📅 2026-11-16 - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
 * [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) ⭐ 511 | 🐛 3 | 🌐 Svelte | 📅 2026-08-22 - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
 * [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) ⭐ 234 | 🐛 16 | 🌐 Svelte | 📅 2026-11-15 - Demo login and registration pages with examples. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
 * [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) ⭐ 226 | 🐛 1 | 🌐 Go | 📅 2026-10-20 - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
@@ -51,7 +55,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Major Community Projects
 
 * [pocketpages.dev](https://pocketpages.dev) - Server-side JS pages and hosting for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
-* PocketPorts - NPM/Node.js packages ported to PocketBase JSVM. Official listing is hosted here in awesome-pocketbase.
+* [PocketCon 2027](https://pocketcon.dev) - A free online PocketBase conference on Saturday, February 6, 2027.
 
 ## JSVM Plugins
 
@@ -80,7 +84,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Svelte
 
 * [pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) ⭐ 511 | 🐛 3 | 🌐 Svelte | 📅 2026-08-22 - A starter-kit showing how to use customized (Go/JS) PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
-* [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) ⭐ 50 | 🐛 1 | 🌐 Svelte | 📅 2026-10-29 - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
+* [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) ⭐ 49 | 🐛 1 | 🌐 Svelte | 📅 2026-10-29 - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
 * [svelte-query-pocketbase](https://github.com/goknsh/svelte-query-pocketbase) ⚠️ Archived - TanStack Query wrappers around PocketBase for Svelte and SvelteKit that updates the query cache in realtime. ![GitHub Repo stars](https://img.shields.io/github/stars/goknsh/svelte-query-pocketbase)
 
 ## Vue
@@ -170,7 +174,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Showcases
 
-* [Vimsnake](https://github.com/patmood/vim_snake) ⭐ 150 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-13 - A realtime WebAssembly game where Vim commands are used as controller inputs. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/vim_snake)
+* [Vimsnake](https://github.com/patmood/vim_snake) ⭐ 149 | 🐛 6 | 🌐 JavaScript | 📅 2023-08-13 - A realtime WebAssembly game where Vim commands are used as controller inputs. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/vim_snake)
 * [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) ⭐ 74 | 🐛 2 | 🌐 Dart | 📅 2023-05-26 - A chat app using PocketBase in Flutter. ![GitHub Repo stars](https://img.shields.io/github/stars/rohitsangwan01/flutter_pocketbase_chat)
 * [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) ⭐ 31 | 🐛 3 | 🌐 TypeScript | 📅 2025-05-05 - A React-based realtime blog demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pbRealtimeBlog)
 * [Adnexos](https://github.com/tametsi/adnexos) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-05-31 - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
@@ -180,19 +184,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2025-07-25 - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 * [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-22 - A React-based oAuth demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbase-oauth-demo)
 * [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-27 / [backend repo](https://github.com/JunoNgx/justjot-backend) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-27 ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
+* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-16 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
 * [Cookie auth demo](https://github.com/davidbarton/pocketbase-cookie-auth-demo) - A demo of cookie based authentication flow for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/davidbarton/pocketbase-cookie-auth-demo)
 * [TinyCld](https://github.com/tinycld) - A full featured workspace with mail/calendar/drive/text/calc package, uses Pocketbase with React Native for realtime db and file storage.  Extends Pocketbase server with golang services for imap/smtp/caldav/webdav.
 
-## PocketPorts Packages
-
-Ports of NPM/Node.js packages to the PocketBase JSVM.
-
-| OG Package                                                                                       | Ported Package                                                                                                 | Description                                      |                                                                                      |
-| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| [Node.js](https://nodejs.org/docs/latest/api/)                                                   | [pocketbase-node](https://github.com/benallfree/pocketbase-node) ⭐ 8 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-11-08 | Node.js core packages (`fs`, `process`, etc)     | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
-| [ejs](https://github.com/mde/ejs) ⭐ 8,134 \| 🐛 22 \| 🌐 JavaScript \| 📅 2026-10-18             | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs) ⭐ 3 \| 🐛 0 \| 📅 2026-11-08                    | Embedded JavaScript templates - <http://ejs.co>  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
-| [marked](https://github.com/markedjs/marked) ⭐ 37,303 \| 🐛 38 \| 🌐 TypeScript \| 📅 2026-11-13 | works without changes                                                                                          | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
-
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

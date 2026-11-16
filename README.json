@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61589,
+            "stars": 61584,
             "topics": [
               "authentication",
               "backend",
@@ -120,11 +120,11 @@
             "id": 512404791,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-15T06:52:28Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-16T15:00:32Z",
+            "open_issues": 1,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "amd64",
               "arm64",
@@ -668,7 +668,7 @@
             "open_issues": 1,
             "owner": "Egor-S",
             "repo": "pocketbase-sveltekit-static",
-            "stars": 50,
+            "stars": 49,
             "topics": [
               "authorization",
               "pocketbase",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61589,
+            "stars": 61584,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61589,
+            "stars": 61584,
             "topics": [
               "authentication",
               "backend",
@@ -1840,7 +1840,7 @@
             "open_issues": 6,
             "owner": "patmood",
             "repo": "vim_snake",
-            "stars": 150,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
@@ -2085,110 +2085,37 @@
             ]
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Chirkle",
+          "description": "Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The ultralight messenger. Barely touches your server, browser, or phone.",
+            "homepage": "https://chirkle.com/",
+            "id": 1414221040,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-16T16:30:39Z",
+            "open_issues": 1,
+            "owner": "border-radius",
+            "repo": "chirkle",
+            "stars": 11,
+            "topics": [
+              "messenger",
+              "pocketbase"
+            ]
+          },
+          "first_seen": "2026-11-16T19:29:29.457Z"
         }
       ],
       "title": "Showcases"
-    },
-    {
-      "description": "Ports of NPM/Node.js packages to the PocketBase JSVM.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Node.js",
-          "description": "pocketbase-node Node.js core packages (, , etc)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 856774422,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-08T20:38:02Z",
-            "open_issues": 0,
-            "owner": "benallfree",
-            "repo": "pocketbase-node",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ejs",
-          "description": "mde/ejs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Embedded JavaScript templates -- http://ejs.co",
-            "homepage": null,
-            "id": 28671602,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-18T05:05:10Z",
-            "open_issues": 22,
-            "owner": "mde",
-            "repo": "ejs",
-            "stars": 8134,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pocketbase-ejs",
-          "description": "benallfree/pocketbase-ejs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Embedded JavaScript templates -- http://ejs.co",
-            "homepage": null,
-            "id": 854452326,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-08T11:59:59Z",
-            "open_issues": 0,
-            "owner": "benallfree",
-            "repo": "pocketbase-ejs",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "marked",
-          "description": "works without changes A markdown parser and compiler. Built for speed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A markdown parser and compiler. Built for speed.",
-            "homepage": "https://marked.js.org",
-            "id": 2096579,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-13T18:22:38Z",
-            "open_issues": 38,
-            "owner": "markedjs",
-            "repo": "marked",
-            "stars": 37303,
-            "topics": [
-              "commonmark",
-              "compiler",
-              "gfm",
-              "hacktoberfest",
-              "markdown",
-              "parser"
-            ]
-          },
-          "first_seen": "2026-08-28T20:48:51.192Z"
-        }
-      ],
-      "title": "PocketPorts Packages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:14:58.857Z",
+    "last_updated": "2026-11-16T19:29:29.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2196,7 +2123,7 @@
       "id": 544865531,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-14T04:59:37Z",
+      "last_commit": "2026-11-16T18:13:51Z",
       "open_issues": 1,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
@@ -2208,7 +2135,7 @@
         "pocketbase"
       ]
     },
-    "original_repository_sha": "cec5f04916758c3bfc0b04d690724730e0d7c181",
+    "original_repository_sha": "e50d2181d97f9e9d254d98a5e88d89167d39f14e",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
     "enhanced_repository_description": null,
     "title": "Awesome PocketBase with stars"
