@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61584,
+            "stars": 61582,
             "topics": [
               "authentication",
               "backend",
@@ -1208,7 +1208,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61584,
+            "stars": 61582,
             "topics": [
               "authentication",
               "backend",
@@ -1234,7 +1234,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61584,
+            "stars": 61582,
             "topics": [
               "authentication",
               "backend",
@@ -1599,7 +1599,7 @@
             "open_issues": 39,
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "database",
               "distributed",
@@ -2098,24 +2098,76 @@
             "id": 1414221040,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T16:51:04Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-18T16:59:41Z",
+            "open_issues": 1,
             "owner": "border-radius",
             "repo": "chirkle",
             "stars": 12,
             "topics": [
+              "android",
+              "chat",
+              "discord-alternative",
+              "golang",
+              "group-chat",
+              "jetpack-compose",
+              "kotlin",
+              "lightweight",
               "messenger",
-              "pocketbase"
+              "pocketbase",
+              "pwa",
+              "realtime",
+              "self-hosted",
+              "selfhosted",
+              "slack-alternative",
+              "sqlite",
+              "team-chat",
+              "telegram-bridge",
+              "typescript",
+              "vanilla-js"
             ]
           },
           "first_seen": "2026-11-16T19:29:29.457Z"
+        },
+        {
+          "node_type": "item",
+          "title": "STJÓRNA",
+          "description": "Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "STJÓRNA was created to have an easy product management with the possibility to access the categories and products over an simple only readable REST API.",
+            "homepage": "https://stjorna.secanis.ch",
+            "id": 133960287,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-14T06:18:12Z",
+            "open_issues": 1,
+            "owner": "secanis",
+            "repo": "stjorna",
+            "stars": 4,
+            "topics": [
+              "cms",
+              "cms-backend",
+              "docker",
+              "headless-cms",
+              "helm",
+              "management",
+              "nodejs",
+              "pocketbase",
+              "podman",
+              "product-management",
+              "rest-api",
+              "solidjs"
+            ]
+          },
+          "first_seen": "2026-11-18T17:56:22.292Z"
         }
       ],
       "title": "Showcases"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:24:35.417Z",
+    "last_updated": "2026-11-18T17:56:22.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2123,11 +2175,11 @@
       "id": 544865531,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-16T18:13:51Z",
+      "last_commit": "2026-11-18T05:31:13Z",
       "open_issues": 1,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1215,
+      "stars": 1216,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2135,7 +2187,7 @@
         "pocketbase"
       ]
     },
-    "original_repository_sha": "e50d2181d97f9e9d254d98a5e88d89167d39f14e",
+    "original_repository_sha": "38cb8a80f0a14d346e92f108bd0fa9ceaec41142",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
     "enhanced_repository_description": null,
     "title": "Awesome PocketBase with stars"
