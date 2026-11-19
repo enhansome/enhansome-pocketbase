@@ -39,7 +39,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Forks
 
-* [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pocketone)
+* [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketonehq/pocketone)
 
 ## Top PocketBase-specific Projects (>100 stars)
 
@@ -133,7 +133,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 * [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) ⚠️ Archived - Guide to deploy in a Droplet.
 * [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) ⚠️ Archived - Guide to deploy for free in Fly.io.
-* [pb-deployer](https://github.com/magooney-loon/pb-deployer) ⭐ 50 | 🐛 0 | 🌐 Svelte | 📅 2026-06-20 - Automates the lifecycle of deploying PocketBase apps to production ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-deployer)
+* [pb-deployer](https://github.com/magooney-loon/pb-deployer) ⭐ 51 | 🐛 0 | 🌐 Svelte | 📅 2026-06-20 - Automates the lifecycle of deploying PocketBase apps to production ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-deployer)
 * [PBLauncher](https://github.com/user0608/pb_launcher) ⭐ 35 | 🐛 3 | 🌐 Go | 📅 2026-10-23 - Manage PocketBase instances — fast, lightweight, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/user0608/pb_launcher)
 * [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) ⭐ 25 | 🐛 1 | 🌐 Dockerfile | 📅 2025-06-05 - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
 * [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) ⭐ 13 | 🐛 0 | 🌐 Dockerfile | 📅 2026-11-17 - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)
@@ -180,15 +180,15 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 * [Adnexos](https://github.com/tametsi/adnexos) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-05-31 - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
 * [PocketChat](https://github.com/PocketTogether/pocket-chat) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-20 - A real-time chat platform built with PocketBase and Vue3, supporting OAuth, notifications, PWA, file/image sharing, permissions, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/PocketTogether/pocket-chat)
 * [ToDo](https://github.com/rajesh6161/pocketbaseTodo) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-16 - React-based To-Do demo app. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbaseTodo)
-* [Facet](https://github.com/jesposito/Facet) ⭐ 23 | 🐛 0 | 🌐 Svelte | 📅 2026-11-16 - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
+* [Facet](https://github.com/jesposito/Facet) ⭐ 22 | 🐛 0 | 🌐 Svelte | 📅 2026-11-16 - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
 * [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2025-07-25 - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 * [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-22 - A React-based oAuth demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbase-oauth-demo)
 * [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-27 / [backend repo](https://github.com/JunoNgx/justjot-backend) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-27 ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
-* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-18 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
-* [STJÓRNA](https://github.com/secanis/stjorna) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts. ![GitHub Repo stars](https://img.shields.io/github/stars/secanis/stjorna)
+* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
+* [STJÓRNA](https://github.com/secanis/stjorna) ⭐ 4 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 - Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts. ![GitHub Repo stars](https://img.shields.io/github/stars/secanis/stjorna)
 * [Cookie auth demo](https://github.com/davidbarton/pocketbase-cookie-auth-demo) - A demo of cookie based authentication flow for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/davidbarton/pocketbase-cookie-auth-demo)
 * [TinyCld](https://github.com/tinycld) - A full featured workspace with mail/calendar/drive/text/calc package, uses Pocketbase with React Native for realtime db and file storage.  Extends Pocketbase server with golang services for imap/smtp/caldav/webdav.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
