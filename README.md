@@ -38,7 +38,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Forks
 
-* [PostgreBase](https://github.com/zhenruyan/postgrebase) ⭐ 100 | 🐛 1 | 🌐 Go | 📅 2026-10-14 - A PocketBase fork with PostgreSQL and MySQL support alongside SQLite, a built-in MCP server and Redis or in-memory caching, keeping the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/zhenruyan/postgrebase)
+* [PostgreBase](https://github.com/zhenruyan/postgrebase) ⭐ 101 | 🐛 1 | 🌐 Go | 📅 2026-10-14 - A PocketBase fork with PostgreSQL and MySQL support alongside SQLite, a built-in MCP server and Redis or in-memory caching, keeping the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/zhenruyan/postgrebase)
 * [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketonehq/pocketone)
 
 ## Top PocketBase-specific Projects (>100 stars)
@@ -67,7 +67,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Go Plugins
 
-* [pocketbase-ha](https://github.com/litesql/pocketbase-ha) ⭐ 94 | 🐛 2 | 🌐 Go | 📅 2026-11-18 - Highly available leader or leaderless PocketBase cluster built on the go-ha database/sql driver. ![GitHub Repo stars](https://img.shields.io/github/stars/litesql/pocketbase-ha)
+* [pocketbase-ha](https://github.com/litesql/pocketbase-ha) ⭐ 94 | 🐛 2 | 🌐 Go | 📅 2026-11-22 - Highly available leader or leaderless PocketBase cluster built on the go-ha database/sql driver. ![GitHub Repo stars](https://img.shields.io/github/stars/litesql/pocketbase-ha)
 * [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) ⭐ 51 | 🐛 5 | 🌐 Go | 📅 2026-11-10 - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
 * [pocketbase-gogen](https://github.com/Snonky/pocketbase-gogen) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2025-10-25 - Generate data model structs from a PocketBase schema. ![GitHub Repo stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen)
 * [TypeScript Generator](https://github.com/Vogeslu/pocketbase-ts-generator) ⭐ 37 | 🐛 0 | 🌐 Go | 📅 2025-08-17 - Standalone tool or library that generates TypeScript types, with auto-generation hook or command. ![GitHub Repo stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator)
@@ -84,7 +84,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Svelte
 
-* [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) ⭐ 49 | 🐛 1 | 🌐 Svelte | 📅 2026-10-29 - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
+* [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) ⭐ 49 | 🐛 0 | 🌐 Svelte | 📅 2026-11-21 - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
 
 ## Dart/Flutter
 
@@ -146,10 +146,10 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Showcases
 
-* [UpSnap](https://github.com/seriousm4x/UpSnap) ⭐ 6,447 | 🐛 1 | 🌐 Go | 📅 2026-11-06 - A simple Wake-on-LAN web app written with SvelteKit, Go and PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap)
+* [UpSnap](https://github.com/seriousm4x/UpSnap) ⭐ 6,448 | 🐛 1 | 🌐 Go | 📅 2026-11-06 - A simple Wake-on-LAN web app written with SvelteKit, Go and PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap)
 * [CheckCle](https://github.com/operacle/checkcle) ⭐ 3,329 | 🐛 92 | 🌐 Go | 📅 2026-07-17 - Self-hosted monitoring platform with uptime checks, distributed checks, incident tracking and alerts. ![GitHub Repo stars](https://img.shields.io/github/stars/operacle/checkcle)
 * [Dashwise](https://github.com/andreasmolnardev/dashwise) ⭐ 468 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-04 - All-in-one homelab dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/andreasmolnardev/dashwise)
-* [Cially](https://github.com/cially/cially) ⭐ 216 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-21 - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
+* [Cially](https://github.com/cially/cially) ⭐ 216 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-22 - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
 * [OpenSOHO](https://github.com/rubenbe/opensoho) ⭐ 204 | 🐛 16 | 🌐 Go | 📅 2026-11-13 - OpenWISP alternative for managing a small number of OpenWrt network devices. ![GitHub Repo stars](https://img.shields.io/github/stars/rubenbe/opensoho)
 * [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) ⭐ 31 | 🐛 3 | 🌐 TypeScript | 📅 2025-05-05 - A React-based realtime blog demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pbRealtimeBlog)
 * [Adnexos](https://github.com/tametsi/adnexos) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-05-31 - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
@@ -157,7 +157,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 * [Facet](https://github.com/jesposito/Facet) ⭐ 22 | 🐛 0 | 🌐 Svelte | 📅 2026-11-16 - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
 * [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2025-07-25 - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 * [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-27 / [backend repo](https://github.com/JunoNgx/justjot-backend) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-27 ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
-* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
+* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
 * [STJÓRNA](https://github.com/secanis/stjorna) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts. ![GitHub Repo stars](https://img.shields.io/github/stars/secanis/stjorna)
 * [Beszel](https://beszel.dev) - Lightweight server monitoring with historical data, Docker stats and alerts; its hub is built on PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/henrygd/beszel)
 * [wanderer](https://wanderer.to) - Self-hosted trail database for saving and planning hikes. ![GitHub Repo stars](https://img.shields.io/github/stars/open-wanderer/wanderer)
@@ -200,4 +200,4 @@ Archived, or no commits in the last two years. They may not work with current Po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
