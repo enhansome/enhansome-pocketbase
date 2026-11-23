@@ -125,7 +125,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-11-21T05:30:09Z",
+            "last_commit": "2026-11-23T19:02:00Z",
             "open_issues": 16,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -180,7 +180,7 @@
             "open_issues": 2,
             "owner": "mrwyndham",
             "repo": "pocketbase-mcp",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "mcp-server",
               "pocketbase"
@@ -843,7 +843,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61573,
+            "stars": 61570,
             "topics": [
               "authentication",
               "backend",
@@ -869,7 +869,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61573,
+            "stars": 61570,
             "topics": [
               "authentication",
               "backend",
@@ -1440,7 +1440,7 @@
             "open_issues": 1,
             "owner": "seriousm4x",
             "repo": "UpSnap",
-            "stars": 6448,
+            "stars": 6452,
             "topics": [
               "golang",
               "pocketbase",
@@ -1467,7 +1467,7 @@
             "open_issues": 92,
             "owner": "operacle",
             "repo": "checkcle",
-            "stars": 3329,
+            "stars": 3330,
             "topics": [
               "alternative",
               "api",
@@ -1530,8 +1530,8 @@
             "id": 952953389,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T01:26:30Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-23T20:11:32Z",
+            "open_issues": 13,
             "owner": "cially",
             "repo": "cially",
             "stars": 216,
@@ -1565,11 +1565,11 @@
             "id": 935681443,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T19:04:22Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-23T06:56:59Z",
+            "open_issues": 18,
             "owner": "rubenbe",
             "repo": "opensoho",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "capsman",
               "openwisp",
@@ -1761,11 +1761,11 @@
             "id": 1414221040,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T16:27:08Z",
+            "last_commit": "2026-11-23T19:50:39Z",
             "open_issues": 1,
             "owner": "border-radius",
             "repo": "chirkle",
-            "stars": 12,
+            "stars": 14,
             "topics": [
               "android",
               "chat",
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:02:35.352Z",
+    "last_updated": "2026-11-23T21:11:21.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2411,10 +2411,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-20T13:42:26Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
-      "stars": 1214,
+      "stars": 1215,
       "topics": [
         "awesome",
         "awesome-list",
