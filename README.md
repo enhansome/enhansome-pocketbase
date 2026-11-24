@@ -149,7 +149,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 * [UpSnap](https://github.com/seriousm4x/UpSnap) ⭐ 6,452 | 🐛 1 | 🌐 Go | 📅 2026-11-06 - A simple Wake-on-LAN web app written with SvelteKit, Go and PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap)
 * [CheckCle](https://github.com/operacle/checkcle) ⭐ 3,330 | 🐛 92 | 🌐 Go | 📅 2026-07-17 - Self-hosted monitoring platform with uptime checks, distributed checks, incident tracking and alerts. ![GitHub Repo stars](https://img.shields.io/github/stars/operacle/checkcle)
 * [Dashwise](https://github.com/andreasmolnardev/dashwise) ⭐ 468 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-04 - All-in-one homelab dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/andreasmolnardev/dashwise)
-* [Cially](https://github.com/cially/cially) ⭐ 216 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-23 - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
+* [Cially](https://github.com/cially/cially) ⭐ 216 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-24 - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
 * [OpenSOHO](https://github.com/rubenbe/opensoho) ⭐ 205 | 🐛 18 | 🌐 Go | 📅 2026-11-23 - OpenWISP alternative for managing a small number of OpenWrt network devices. ![GitHub Repo stars](https://img.shields.io/github/stars/rubenbe/opensoho)
 * [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) ⭐ 31 | 🐛 3 | 🌐 TypeScript | 📅 2025-05-05 - A React-based realtime blog demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pbRealtimeBlog)
 * [Adnexos](https://github.com/tametsi/adnexos) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-05-31 - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
@@ -157,8 +157,8 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 * [Facet](https://github.com/jesposito/Facet) ⭐ 22 | 🐛 0 | 🌐 Svelte | 📅 2026-11-16 - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
 * [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2025-07-25 - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 * [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) ⭐ 15 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-27 / [backend repo](https://github.com/JunoNgx/justjot-backend) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-27 ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
-* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-23 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
-* [STJÓRNA](https://github.com/secanis/stjorna) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts. ![GitHub Repo stars](https://img.shields.io/github/stars/secanis/stjorna)
+* [Chirkle](https://github.com/border-radius/chirkle) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-24 - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
+* [STJÓRNA](https://github.com/secanis/stjorna) ⭐ 4 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts. ![GitHub Repo stars](https://img.shields.io/github/stars/secanis/stjorna)
 * [Beszel](https://beszel.dev) - Lightweight server monitoring with historical data, Docker stats and alerts; its hub is built on PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/henrygd/beszel)
 * [wanderer](https://wanderer.to) - Self-hosted trail database for saving and planning hikes. ![GitHub Repo stars](https://img.shields.io/github/stars/open-wanderer/wanderer)
 * [Primo](https://primo.build) - Builder for client-editable websites, with a PocketBase backend. ![GitHub Repo stars](https://img.shields.io/github/stars/primocms/primo)
@@ -200,4 +200,4 @@ Archived, or no commits in the last two years. They may not work with current Po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

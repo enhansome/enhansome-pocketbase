@@ -843,7 +843,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61570,
+            "stars": 61566,
             "topics": [
               "authentication",
               "backend",
@@ -869,7 +869,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61570,
+            "stars": 61566,
             "topics": [
               "authentication",
               "backend",
@@ -1530,7 +1530,7 @@
             "id": 952953389,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T20:11:32Z",
+            "last_commit": "2026-11-24T12:50:34Z",
             "open_issues": 13,
             "owner": "cially",
             "repo": "cially",
@@ -1761,7 +1761,7 @@
             "id": 1414221040,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T19:50:39Z",
+            "last_commit": "2026-11-24T19:52:27Z",
             "open_issues": 1,
             "owner": "border-radius",
             "repo": "chirkle",
@@ -1803,8 +1803,8 @@
             "id": 133960287,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T20:35:44Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T19:08:55Z",
+            "open_issues": 3,
             "owner": "secanis",
             "repo": "stjorna",
             "stars": 4,
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:11:21.208Z",
+    "last_updated": "2026-11-24T20:05:12.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
@@ -2410,7 +2410,7 @@
       "id": 544865531,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-20T13:42:26Z",
+      "last_commit": "2026-11-23T21:24:42Z",
       "open_issues": 0,
       "owner": "benallfree",
       "repo": "awesome-pocketbase",
@@ -2422,7 +2422,7 @@
         "pocketbase"
       ]
     },
-    "original_repository_sha": "1a5a07310b037aca9cd16c1c72a128b0216aed05",
+    "original_repository_sha": "0cdc7e02ac3bbe7779cca175b9f0a35cad89b1ae",
     "enhanced_repository": "enhansome/enhansome-pocketbase",
     "enhanced_repository_description": null,
     "title": "Awesome PocketBase with stars"
