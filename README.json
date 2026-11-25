@@ -44,7 +44,7 @@
             "open_issues": 1,
             "owner": "muchobien",
             "repo": "pocketbase-docker",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "amd64",
               "arm64",
@@ -497,7 +497,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T03:07:15Z",
+            "last_commit": "2026-11-25T16:48:41Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -843,7 +843,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61566,
+            "stars": 61570,
             "topics": [
               "authentication",
               "backend",
@@ -869,7 +869,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61566,
+            "stars": 61570,
             "topics": [
               "authentication",
               "backend",
@@ -1018,7 +1018,7 @@
             "id": 1097785973,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-10-30T07:51:01Z",
+            "last_commit": "2026-11-25T12:58:38Z",
             "open_issues": 0,
             "owner": "boustanihani",
             "repo": "pocketbase-lightsail-hosting",
@@ -1244,7 +1244,7 @@
             "open_issues": 39,
             "owner": "maxpert",
             "repo": "marmot",
-            "stars": 2831,
+            "stars": 2832,
             "topics": [
               "database",
               "distributed",
@@ -1271,7 +1271,7 @@
             "open_issues": 0,
             "owner": "michal-kapala",
             "repo": "pocketbase-import",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "data-import",
               "pocketbase"
@@ -1440,7 +1440,7 @@
             "open_issues": 1,
             "owner": "seriousm4x",
             "repo": "UpSnap",
-            "stars": 6452,
+            "stars": 6454,
             "topics": [
               "golang",
               "pocketbase",
@@ -1467,7 +1467,7 @@
             "open_issues": 92,
             "owner": "operacle",
             "repo": "checkcle",
-            "stars": 3330,
+            "stars": 3329,
             "topics": [
               "alternative",
               "api",
@@ -1506,7 +1506,7 @@
             "open_issues": 28,
             "owner": "andreasmolnardev",
             "repo": "dashwise",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "bookmarks",
               "dashwise",
@@ -1530,11 +1530,11 @@
             "id": 952953389,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T12:50:34Z",
+            "last_commit": "2026-11-25T16:00:32Z",
             "open_issues": 13,
             "owner": "cially",
             "repo": "cially",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "analytics",
               "api",
@@ -1757,11 +1757,11 @@
           "repo_info": {
             "archived": false,
             "description": "The ultralight messenger. Barely touches your server, browser, or phone.",
-            "homepage": "https://chirkle.com/",
+            "homepage": "https://chirkle.com",
             "id": 1414221040,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T19:52:27Z",
+            "last_commit": "2026-11-25T17:53:11Z",
             "open_issues": 1,
             "owner": "border-radius",
             "repo": "chirkle",
@@ -1803,8 +1803,8 @@
             "id": 133960287,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T19:08:55Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-24T21:59:22Z",
+            "open_issues": 1,
             "owner": "secanis",
             "repo": "stjorna",
             "stars": 4,
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:05:12.461Z",
+    "last_updated": "2026-11-25T19:06:40.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
