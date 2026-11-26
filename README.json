@@ -125,7 +125,7 @@
             "id": 582984879,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-11-23T19:02:00Z",
+            "last_commit": "2026-11-26T12:50:39Z",
             "open_issues": 16,
             "owner": "jianyuan",
             "repo": "pocketbase-sveltekit-auth",
@@ -497,7 +497,7 @@
             "id": 904944407,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T16:48:41Z",
+            "last_commit": "2026-11-26T13:13:09Z",
             "open_issues": 11,
             "owner": "jianyuan",
             "repo": "pocketbase-nextjs-auth",
@@ -653,6 +653,27 @@
         },
         {
           "node_type": "item",
+          "title": "Swift",
+          "description": "PocketBase client for iOS, macOS, watchOS, tvOS and visionOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A PocketBase client for iOS, macOS, watchOS, tvOS, and visionOS",
+            "homepage": null,
+            "id": 539252616,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-05-11T03:42:26Z",
+            "open_issues": 2,
+            "owner": "briannadoubt",
+            "repo": "PocketBase",
+            "stars": 75,
+            "topics": []
+          },
+          "first_seen": "2026-11-20T17:42:12.053Z"
+        },
+        {
+          "node_type": "item",
           "title": "Python (Async)",
           "description": "PocketBase Client in Python.",
           "children": [],
@@ -677,27 +698,6 @@
             ]
           },
           "first_seen": "2026-08-28T20:48:51.192Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Swift",
-          "description": "PocketBase client for iOS, macOS, watchOS, tvOS and visionOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A PocketBase client for iOS, macOS, watchOS, tvOS, and visionOS",
-            "homepage": null,
-            "id": 539252616,
-            "language": "Swift",
-            "license": "MIT",
-            "last_commit": "2026-05-11T03:42:26Z",
-            "open_issues": 2,
-            "owner": "briannadoubt",
-            "repo": "PocketBase",
-            "stars": 74,
-            "topics": []
-          },
-          "first_seen": "2026-11-20T17:42:12.053Z"
         },
         {
           "node_type": "item",
@@ -843,7 +843,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61570,
+            "stars": 61575,
             "topics": [
               "authentication",
               "backend",
@@ -869,7 +869,7 @@
             "open_issues": 1,
             "owner": "pocketbase",
             "repo": "pocketbase",
-            "stars": 61570,
+            "stars": 61575,
             "topics": [
               "authentication",
               "backend",
@@ -1018,7 +1018,7 @@
             "id": 1097785973,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-25T12:58:38Z",
+            "last_commit": "2026-11-25T21:17:25Z",
             "open_issues": 0,
             "owner": "boustanihani",
             "repo": "pocketbase-lightsail-hosting",
@@ -1440,7 +1440,7 @@
             "open_issues": 1,
             "owner": "seriousm4x",
             "repo": "UpSnap",
-            "stars": 6454,
+            "stars": 6457,
             "topics": [
               "golang",
               "pocketbase",
@@ -1464,10 +1464,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-07-17T02:51:25Z",
-            "open_issues": 92,
+            "open_issues": 91,
             "owner": "operacle",
             "repo": "checkcle",
-            "stars": 3329,
+            "stars": 3331,
             "topics": [
               "alternative",
               "api",
@@ -1503,7 +1503,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-04T12:58:17Z",
-            "open_issues": 28,
+            "open_issues": 36,
             "owner": "andreasmolnardev",
             "repo": "dashwise",
             "stars": 469,
@@ -1530,8 +1530,8 @@
             "id": 952953389,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T16:00:32Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-26T05:59:42Z",
+            "open_issues": 14,
             "owner": "cially",
             "repo": "cially",
             "stars": 217,
@@ -1761,7 +1761,7 @@
             "id": 1414221040,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T17:53:11Z",
+            "last_commit": "2026-11-25T19:12:36Z",
             "open_issues": 1,
             "owner": "border-radius",
             "repo": "chirkle",
@@ -2402,7 +2402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:06:40.276Z",
+    "last_updated": "2026-11-26T18:56:44.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of PocketBase community resources.",
