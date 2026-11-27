@@ -44,7 +44,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 ## Top PocketBase-specific Projects (>100 stars)
 
 * [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) ⭐ 832 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-30 - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
-* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) ⭐ 573 | 🐛 1 | 🌐 Shell | 📅 2026-11-16 - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
+* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) ⭐ 574 | 🐛 1 | 🌐 Shell | 📅 2026-11-16 - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
 * [Python SDK](https://github.com/vaphes/pocketbase) ⭐ 548 | 🐛 16 | 🌐 Python | 📅 2026-05-20 - PocketBase client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/vaphes/pocketbase)
 * [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) ⭐ 510 | 🐛 3 | 🌐 Svelte | 📅 2026-08-22 - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
 * [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) ⭐ 234 | 🐛 16 | 🌐 Svelte | 📅 2026-11-26 - Demo login and registration pages with examples. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
@@ -79,7 +79,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 * [PocketBase React](https://github.com/tobicrain/pocketbase-react) ⭐ 86 | 🐛 3 | 🌐 TypeScript | 📅 2025-02-24 - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/tobicrain/pocketbase-react)
 * [pbtsdb](https://github.com/nathanstitt/pbtsdb) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-20 - A type-safe TanStack DB adapter to easily create LiveQueries with real-time subscriptions. ![GitHub Repo stars](https://img.shields.io/github/stars/nathanstitt/pbtsdb)
-* [Next.js PocketBase Auth](https://github.com/jianyuan/pocketbase-nextjs-auth) ⭐ 24 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-26 - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
+* [Next.js PocketBase Auth](https://github.com/jianyuan/pocketbase-nextjs-auth) ⭐ 24 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-27 - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
 * [next-pocketbase-auth](https://github.com/g12i/next-pocketbase-auth) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-30 - A lightweight authentication wrapper for Next.js applications, providing easy-to-use utilities for handling user session in both client and server components. ![GitHub Repo stars](https://img.shields.io/github/stars/g12i/next-pocketbase-auth)
 
 ## Svelte
@@ -146,10 +146,10 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Showcases
 
-* [UpSnap](https://github.com/seriousm4x/UpSnap) ⭐ 6,457 | 🐛 1 | 🌐 Go | 📅 2026-11-06 - A simple Wake-on-LAN web app written with SvelteKit, Go and PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap)
+* [UpSnap](https://github.com/seriousm4x/UpSnap) ⭐ 6,463 | 🐛 3 | 🌐 Go | 📅 2026-11-06 - A simple Wake-on-LAN web app written with SvelteKit, Go and PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap)
 * [CheckCle](https://github.com/operacle/checkcle) ⭐ 3,331 | 🐛 91 | 🌐 Go | 📅 2026-07-17 - Self-hosted monitoring platform with uptime checks, distributed checks, incident tracking and alerts. ![GitHub Repo stars](https://img.shields.io/github/stars/operacle/checkcle)
-* [Dashwise](https://github.com/andreasmolnardev/dashwise) ⭐ 469 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-04 - All-in-one homelab dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/andreasmolnardev/dashwise)
-* [Cially](https://github.com/cially/cially) ⭐ 217 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-26 - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
+* [Dashwise](https://github.com/andreasmolnardev/dashwise) ⭐ 469 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-04 - All-in-one homelab dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/andreasmolnardev/dashwise)
+* [Cially](https://github.com/cially/cially) ⭐ 217 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-27 - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
 * [OpenSOHO](https://github.com/rubenbe/opensoho) ⭐ 205 | 🐛 18 | 🌐 Go | 📅 2026-11-23 - OpenWISP alternative for managing a small number of OpenWrt network devices. ![GitHub Repo stars](https://img.shields.io/github/stars/rubenbe/opensoho)
 * [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) ⭐ 31 | 🐛 3 | 🌐 TypeScript | 📅 2025-05-05 - A React-based realtime blog demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pbRealtimeBlog)
 * [Adnexos](https://github.com/tametsi/adnexos) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-05-31 - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
@@ -200,4 +200,4 @@ Archived, or no commits in the last two years. They may not work with current Po
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
